@@ -1,0 +1,1111 @@
+﻿Log file open, 11/15/18 10:05:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Donjon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.345705
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  1.073s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine 4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.050s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.15-09.05.51:094][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.15-09.05.51:094][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.15-09.05.51:190][  0]LogHAL: Display: Platform has ~ 16 GB [17059442688 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.15-09.05.51:190][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.15-09.05.51:190][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.15-09.05.51:219][  0]LogInit: Computer: MSI
+[2018.11.15-09.05.51:219][  0]LogInit: User: Killian
+[2018.11.15-09.05.51:219][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.15-09.05.51:219][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.11.15-09.05.51:219][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.15-09.05.51:219][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.15-09.05.51:219][  0]LogMemory: Process Physical Memory: 99.65 MB used, 99.65 MB peak
+[2018.11.15-09.05.51:219][  0]LogMemory: Process Virtual Memory: 90.97 MB used, 90.97 MB peak
+[2018.11.15-09.05.51:219][  0]LogMemory: Physical Memory: 5806.18 MB used,  10462.97 MB free, 16269.15 MB total
+[2018.11.15-09.05.51:219][  0]LogMemory: Virtual Memory: 4644.85 MB used,  10462.97 MB free, 134217728.00 MB total
+[2018.11.15-09.05.51:246][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.15-09.05.51:246][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.15-09.05.51:247][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.15-09.05.51:248][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.11.15-09.05.51:248][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.15-09.05.51:304][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.15-09.05.51:304][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.15-09.05.51:557][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.15-09.05.51:557][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.15-09.05.51:642][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.11.15-09.05.51:642][  0]LogD3D11RHI:       2987/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.15-09.05.51:662][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.15-09.05.51:662][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.15-09.05.51:665][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.15-09.05.51:665][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.15-09.05.51:665][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.15-09.05.51:684][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.15-09.05.51:684][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.15-09.05.51:684][  0]LogWindows: EnumDisplayDevices:
+[2018.11.15-09.05.51:684][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.15-09.05.51:684][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.15-09.05.51:685][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.15-09.05.51:685][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.15-09.05.51:685][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.15-09.05.51:685][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.15-09.05.51:686][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.15-09.05.51:686][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.11.15-09.05.51:686][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.11.15-09.05.51:686][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2018.11.15-09.05.51:686][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2018.11.15-09.05.51:686][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2018.11.15-09.05.51:730][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.15-09.05.51:748][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.15-09.05.51:749][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Intermediate/Shaders/WorkingDirectory/11524/).
+[2018.11.15-09.05.51:749][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Killian/AppData/Local/Temp/UnrealShaderWorkingDir/D999BD444327A859768AEF95656455D8/'.
+[2018.11.15-09.05.52:022][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.15-09.05.52:035][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.15-09.05.52:050][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.15-09.05.52:063][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.15-09.05.52:076][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.15-09.05.52:089][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.15-09.05.52:102][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.15-09.05.52:116][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.15-09.05.52:121][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:204][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-09.05.52:205][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.15-09.05.52:264][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.15-09.05.52:264][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.15-09.05.52:288][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.15-09.05.52:288][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.15-09.05.52:300][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.15-09.05.52:313][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.15-09.05.52:326][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.15-09.05.52:339][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.15-09.05.52:348][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.15-09.05.52:348][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.15-09.05.52:391][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.15-09.05.52:391][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.15-09.05.52:391][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.15-09.05.53:121][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.15-09.05.53:183][  0]LogDerivedDataCache: Loaded boot cache 0.06s 72MB C:/Users/Killian/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.15-09.05.53:184][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Killian/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.15-09.05.53:184][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.15-09.05.53:184][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.15-09.05.53:184][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.15-09.05.53:184][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.15-09.05.53:203][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.15-09.05.53:216][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Killian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.15-09.05.53:216][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.15-09.05.53:216][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.15-09.05.53:234][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.15-09.05.53:235][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.15-09.05.53:236][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.15-09.05.53:310][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.11.15-09.05.53:622][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.15-09.05.53:756][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.15-09.05.53:758][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.15-09.05.53:758][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.15-09.05.53:758][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.15-09.05.53:758][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.15-09.05.53:777][  0]LogNetVersion: Donjon 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 914305754)
+[2018.11.15-09.05.54:692][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.370878 seconds
+[2018.11.15-09.05.54:699][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.15-09.05.54:699][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.15-09.05.54:699][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.15-09.05.55:524][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.15-09.05.55:536][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.15-09.05.55:763][  0]SourceControl: Source control is disabled
+[2018.11.15-09.05.55:763][  0]SourceControl: Source control is disabled
+[2018.11.15-09.05.55:764][  0]SourceControl: Source control is disabled
+[2018.11.15-09.05.55:765][  0]SourceControl: Source control is disabled
+[2018.11.15-09.05.56:138][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.15-09.05.56:174][  0]LogOcInput: OculusInput pre-init called
+[2018.11.15-09.06.13:949][  0]LogEngine: Initializing Engine...
+[2018.11.15-09.06.13:971][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.15-09.06.13:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.15-09.06.13:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.15-09.06.13:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.15-09.06.13:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.15-09.06.14:168][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.15-09.06.14:183][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.15-09.06.14:189][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-09.06.14:297][  0]LogInit: FAudioDevice initialized.
+[2018.11.15-09.06.14:297][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.15-09.06.14:372][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/Killian/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.15-09.06.14:404][  0]LogInit: Texture streaming: Enabled
+[2018.11.15-09.06.14:416][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.15-09.06.14:425][  0]LogInit: Transaction tracking system initialized
+[2018.11.15-09.06.14:439][  0]BlueprintLog: New page: Editor Load
+[2018.11.15-09.06.14:496][  0]LocalizationService: Localization service is disabled
+[2018.11.15-09.06.14:550][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.11.15-09.06.14:550][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.11.15-09.06.14:550][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.11.15-09.06.14:895][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.15-09.06.14:895][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.15-09.06.14:895][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.15-09.06.14:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.15-09.06.14:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.15-09.06.14:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.15-09.06.14:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.15-09.06.14:901][  0]LogFileCache: Scanning file cache for directory 'D:/E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/' took 0.03s
+[2018.11.15-09.06.17:048][  0]SourceControl: Source control is disabled
+[2018.11.15-09.06.17:048][  0]Cmd: MAP LOAD FILE="../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.15-09.06.17:162][  0]LightingResults: New page: Lighting Build
+[2018.11.15-09.06.17:164][  0]MapCheck: New page: Map Check
+[2018.11.15-09.06.17:164][  0]LightingResults: New page: Lighting Build
+[2018.11.15-09.06.21:501][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.15-09.06.21:610][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.15-09.06.21:637][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.15-09.06.21:693][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55,884ms to complete.
+[2018.11.15-09.06.21:693][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.646
+[2018.11.15-09.06.22:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.06.22:158][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.06.22:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.06.22:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.06.22:296][  0]LogCollectionManager: Loaded 0 collections in 0.001124 seconds
+[2018.11.15-09.06.22:496][  0]LogFileCache: Scanning file cache for directory 'D:/E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collections/' took 0.01s
+[2018.11.15-09.06.22:496][  0]LogFileCache: Scanning file cache for directory 'D:/E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/Developers/Killian/Collections/' took 0.01s
+[2018.11.15-09.06.22:496][  0]LogFileCache: Scanning file cache for directory 'D:/E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/Collections/' took 0.01s
+[2018.11.15-09.06.22:496][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.15-09.06.22:508][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2621 classes and 629 folders.
+[2018.11.15-09.06.22:638][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.15-09.06.23:976][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.15-09.06.24:025][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.15-09.06.24:129][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.15-09.06.24:131][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.15-09.06.24:181][  0]LogSlate: Took 0.026764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.15-09.06.24:626][  0]LogRenderer: Reallocating scene render targets to support 936x480 Format 10 NumSamples 1 (Frame:1).
+[2018.11.15-09.06.24:822][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.15-09.06.24:822][  0]LogLoad: (Engine Initialization) Total time: 38.33 seconds
+[2018.11.15-09.06.24:822][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.15-09.06.24:847][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-09.06.24:877][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.15-09.06.25:005][  1]LogAssetRegistry: Asset discovery search completed in 31.7180 seconds
+[2018.11.15-09.06.25:006][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.15-09.06.25:006][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.11.15-09.06.29:024][229]LogSlate: Took 0.030291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.15-09.06.36:886][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.06.55:047][728]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.15-09.06.57:809][728]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-09.06.57:826][728]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level
+[2018.11.15-09.06.57:849][728]Cmd: MAP LOAD FILE="../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collecting_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.15-09.06.57:850][728]LightingResults: New page: Lighting Build
+[2018.11.15-09.06.57:850][728]LoadErrors: New page: Loading map: Collecting_Level.umap
+[2018.11.15-09.06.57:864][728]MapCheck: New page: Map Check
+[2018.11.15-09.06.57:864][728]LightingResults: New page: Lighting Build
+[2018.11.15-09.06.57:912][728]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.15-09.06.57:958][728]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.15-09.06.58:021][728]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62,654ms to complete.
+[2018.11.15-09.06.58:021][728]LogFileHelpers: Loading map 'Collecting_Level' took 0.173
+[2018.11.15-09.07.14:713][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-09.07.15:792][789]MapCheck: New page: Map Check
+[2018.11.15-09.07.15:800][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-09.07.15:810][789]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.15-09.07.15:810][789]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.15-09.07.15:939][789]LightingResults: New page: Lighting Build - 15 nov. 2018 11:07:15
+[2018.11.15-09.07.16:075][789]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.15-09.07.16:306][789]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.15-09.07.16:335][789]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.15-09.07.17:919][789]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.15-09.07.17:919][789]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11524
+[2018.11.15-09.07.22:549][789]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.15-09.07.22:549][789]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.15-09.07.22:549][789]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.15-09.07.22:549][789]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.15-09.07.22:549][789]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.15-09.07.22:760][789]LogEditorBuildUtils: Build time 0:06
+[2018.11.15-09.07.29:712][158]Job is a success!
+[2018.11.15-09.07.29:740][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-09.07.29:788][160]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2018.11.15-09.07.29:788][160]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.15-09.07.29:788][160]LogVolumetricLightmapImport:      BrickData 385x5x5 = 0.4Mb
+[2018.11.15-09.07.29:788][160]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.15-09.07.29:788][160]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.11.15-09.07.29:788][160]LogVolumetricLightmapImport:          1: 5.2% covering 6.3% of volume
+[2018.11.15-09.07.29:788][160]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.11.15-09.07.30:565][160]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.11.15-09.07.30:718][160]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X256)
+[2018.11.15-09.07.30:718][160]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X512)
+[2018.11.15-09.07.30:781][160]Lightmass on MSI: 6.88 sec total, 419 ms importing, 87 ms setup, 1.10 sec photons, 5.25 sec processing, 0 ms extra exporting [294/294 mappings]. Threads: 36.6 sec total, 22.7 sec processing.
+[2018.11.15-09.07.30:880][160]LogStaticLightingSystem: Illumination: 14.9 sec (668 ms encoding lightmaps, 139 ms encoding shadowmaps)
+[2018.11.15-09.07.30:880][160]LogStaticLightingSystem: Lightmap texture memory:  5.3 MB (2.7 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.11.15-09.07.30:880][160]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (1.3 MB streaming, 1.3 MB non-streaming), 2 textures
+[2018.11.15-09.07.31:556][160]DumpUnbuiltLightIteractions
+[2018.11.15-09.07.31:556][160]Lights with unbuilt interactions: 0
+[2018.11.15-09.07.31:556][160]
+[2018.11.15-09.07.31:556][160]Primitives with unbuilt interactions: 0
+[2018.11.15-09.07.31:577][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-09.07.31:696][161]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.15-09.07.31:697][161]MapCheck: New page: Collecting_Level - 15 nov. 2018 11:07:31
+[2018.11.15-09.07.31:830][161]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 133,13ms to complete.
+[2018.11.15-09.16.58:478][607]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto12F05B5B44973E8582622C7AA3AF48E70.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto1.umap'
+[2018.11.15-09.16.58:544][607]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 1.174
+[2018.11.15-09.16.58:544][607]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.174
+[2018.11.15-09.16.58:575][607]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Maps/Collecting_Level_BuiltData] ([1] browsable assets)...
+[2018.11.15-09.16.58:575][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Maps/Collecting_Level_BuiltData]
+[2018.11.15-09.16.58:669][607]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_BuiltData_Auto124BC940A42B100DF6CB70D9CBE7C6293.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_BuiltData_Auto1.uasset'
+[2018.11.15-09.16.58:691][607]LogFileHelpers: Auto-saving content packages took 0.128
+[2018.11.15-09.20.28:337][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.20.41:410][826]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.11.15-09.20.42:978][826]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.15-09.20.45:458][826]LogSlate: Took 0.025528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.15-09.20.46:460][827]LogSlate: Took 0.019227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.15-09.22.45:245][817]LogRenderer: Reallocating scene render targets to support 1040x480 Format 10 NumSamples 1 (Frame:1).
+[2018.11.15-09.22.57:087][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.23.01:899][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.23.56:161][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.24.03:348][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.24.24:274][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.24.39:186][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.28.23:027][492]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto2656D00F74549FC18F45F2B8DF615409B.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto2.umap'
+[2018.11.15-09.28.23:030][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.404
+[2018.11.15-09.28.23:030][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.404
+[2018.11.15-09.28.23:039][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.11.15-09.28.23:063][492]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.11.15-09.28.23:063][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.11.15-09.28.23:239][492]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter_Auto2CD3BE517420B5BEF54DED98BBB6EF5FA.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2018.11.15-09.28.23:240][492]LogFileHelpers: Auto-saving content packages took 0.202
+[2018.11.15-09.30.10:041][902]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-09.30.21:251][543]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-09.30.22:530][592]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter6301D2144E3EA13A15FD54BF071A7161.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-09.31.01:221][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.38.53:143][332]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto32650A0094D99A08FEA57A8892F25A918.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto3.umap'
+[2018.11.15-09.38.53:147][332]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.357
+[2018.11.15-09.38.53:147][332]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.357
+[2018.11.15-09.38.53:151][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.11.15-09.38.53:169][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.11.15-09.38.53:169][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.11.15-09.38.53:251][332]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter_Auto3B9E64C00454FB03E82D8359EF4CC0535.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2018.11.15-09.38.53:252][332]LogFileHelpers: Auto-saving content packages took 0.101
+[2018.11.15-09.46.37:552][120]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-09.48.52:235][348]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-09.48.53:743][410]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacterE09FA2CD4D5E2E35941259BB06F2C7D8.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-09.48.53:775][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-09.48.54:143][411]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto42E836DD741EA3D1B66AC3D8976CCBC4E.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto4.umap'
+[2018.11.15-09.48.54:146][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.350
+[2018.11.15-09.48.54:146][411]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.350
+[2018.11.15-09.49.24:500][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.49.26:499][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.49.26:660][901]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2018.11.15-09.49.33:733][295]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2018.11.15-09.49.33:738][295]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2018.11.15-09.49.34:072][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.15-09.50.28:634][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.50.31:593][151]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.11.15-09.50.39:600][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.50.39:650][608]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-09.50.39:742][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.50.39:768][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-09.50.39:873][608]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 11:50:39)
+[2018.11.15-09.50.39:884][608]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-09.50.40:051][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167841s)
+[2018.11.15-09.50.40:052][608]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-09.50.40:075][608]LogPlayLevel: PIE: World Init took: (0.023780s)
+[2018.11.15-09.50.40:091][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.207631s)
+[2018.11.15-09.50.40:232][608]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-09.50.40:271][608]LogInit: FAudioDevice initialized.
+[2018.11.15-09.50.40:350][608]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-09.50.40:465][608]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-10.50.40
+[2018.11.15-09.50.40:522][608]LogWorld: Bringing up level for play took: 0.090103
+[2018.11.15-09.50.40:782][608]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.15-09.50.40:839][608]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,602
+[2018.11.15-09.50.40:839][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.50.56:590][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.50.56:607][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.50.56:757][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-09.50.56:757][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.50.56:822][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.50.56:878][508]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.15-09.50.57:895][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.50.57:978][574]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-09.50.57:993][574]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.50.57:993][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-09.50.57:993][574]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 11:50:57)
+[2018.11.15-09.50.57:993][574]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-09.50.58:018][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024673s)
+[2018.11.15-09.50.58:019][574]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-09.50.58:019][574]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.11.15-09.50.58:019][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.025809s)
+[2018.11.15-09.50.58:058][574]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-09.50.58:102][574]LogInit: FAudioDevice initialized.
+[2018.11.15-09.50.58:131][574]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-09.50.58:135][574]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-10.50.58
+[2018.11.15-09.50.58:136][574]LogWorld: Bringing up level for play took: 0.003693
+[2018.11.15-09.50.58:149][574]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,088
+[2018.11.15-09.50.58:149][574]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.51.10:315][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.51.10:315][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.51.10:354][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-09.51.10:354][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.51.10:381][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.51.10:416][303]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.15-09.51.11:300][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-09.51.11:400][362]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-09.51.11:415][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.51.11:415][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-09.51.11:415][362]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 11:51:11)
+[2018.11.15-09.51.11:415][362]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-09.51.11:437][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021781s)
+[2018.11.15-09.51.11:438][362]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-09.51.11:438][362]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.11.15-09.51.11:438][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.022669s)
+[2018.11.15-09.51.11:478][362]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-09.51.11:518][362]LogInit: FAudioDevice initialized.
+[2018.11.15-09.51.11:555][362]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-09.51.11:559][362]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-10.51.11
+[2018.11.15-09.51.11:559][362]LogWorld: Bringing up level for play took: 0.003294
+[2018.11.15-09.51.11:573][362]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,664
+[2018.11.15-09.51.11:573][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.51.24:019][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.51.24:020][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.51.24:060][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-09.51.24:060][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-09.51.24:096][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-09.51.24:120][106]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.15-09.52.01:250][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-09.59.36:539][769]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto5C12F932D43BC590C4F09BFBB5348C8EF.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto5.umap'
+[2018.11.15-09.59.36:545][769]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.348
+[2018.11.15-09.59.36:545][769]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.348
+[2018.11.15-09.59.36:548][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.11.15-09.59.36:561][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.11.15-09.59.36:561][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.11.15-09.59.36:662][769]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter_Auto575C5F9CD4A4E1673F7E08E9682D6249D.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2018.11.15-09.59.36:663][769]LogFileHelpers: Auto-saving content packages took 0.116
+[2018.11.15-10.02.47:703][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.09.37:171][178]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto6A8114479487FBE716696919902C17F8A.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto6.umap'
+[2018.11.15-10.09.37:174][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.389
+[2018.11.15-10.09.37:174][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.389
+[2018.11.15-10.09.37:176][178]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.11.15-10.09.37:197][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.11.15-10.09.37:197][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.11.15-10.09.37:303][178]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter_Auto698468D4E457D913B65ACF7813D24389E.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2018.11.15-10.09.37:304][178]LogFileHelpers: Auto-saving content packages took 0.128
+[2018.11.15-10.09.38:713][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.12.24:650][713]LogHttp: Warning: 000001CF9D979080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.15-10.12.24:650][713]LogHttp: Warning: 000001CF9D979080: libcurl info message cache 0 (Connection 32 seems to be dead!)
+[2018.11.15-10.12.24:650][713]LogHttp: Warning: 000001CF9D979080: libcurl info message cache 1 (Closing connection 32)
+[2018.11.15-10.12.24:650][713]LogHttp: Warning: 000001CF9D979080: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.15-10.12.24:650][713]LogHttp: Warning: 000001CF9D979080: libcurl info message cache 3 (Closing connection 33)
+[2018.11.15-10.12.38:353][531]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.12.39:576][575]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter5ED92DD948EC0EF4023B749688F06A3D.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.13.09:200][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.13.12:471][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.13.12:572][945]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.13.12:605][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.12:605][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.13.12:605][945]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:13:12)
+[2018.11.15-10.13.12:605][945]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.13.12:626][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021348s)
+[2018.11.15-10.13.12:627][945]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.13.12:627][945]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.11.15-10.13.12:627][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.022434s)
+[2018.11.15-10.13.12:656][945]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.13.12:694][945]LogInit: FAudioDevice initialized.
+[2018.11.15-10.13.12:728][945]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.13.12:733][945]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.13.12
+[2018.11.15-10.13.12:733][945]LogWorld: Bringing up level for play took: 0.003208
+[2018.11.15-10.13.12:746][945]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,51
+[2018.11.15-10.13.12:746][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.23:156][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.23:156][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.13.23:194][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.13.23:194][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.23:228][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.13.23:257][569]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.15-10.13.23:902][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.13.23:984][612]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.13.23:999][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.23:999][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.13.23:999][612]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:13:23)
+[2018.11.15-10.13.23:999][612]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.13.24:021][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021293s)
+[2018.11.15-10.13.24:021][612]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.13.24:021][612]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.11.15-10.13.24:021][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.022204s)
+[2018.11.15-10.13.24:049][612]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.13.24:086][612]LogInit: FAudioDevice initialized.
+[2018.11.15-10.13.24:119][612]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.13.24:123][612]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.13.24
+[2018.11.15-10.13.24:123][612]LogWorld: Bringing up level for play took: 0.003403
+[2018.11.15-10.13.24:135][612]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,101
+[2018.11.15-10.13.24:135][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.32:577][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.32:577][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.13.32:612][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.13.32:612][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.32:645][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.13.32:676][113]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.15-10.13.33:759][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.13.33:860][184]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.13.33:874][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.33:874][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.13.33:874][184]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:13:33)
+[2018.11.15-10.13.33:874][184]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.13.33:894][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019892s)
+[2018.11.15-10.13.33:895][184]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.13.33:895][184]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2018.11.15-10.13.33:895][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.020703s)
+[2018.11.15-10.13.33:926][184]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.13.33:961][184]LogInit: FAudioDevice initialized.
+[2018.11.15-10.13.33:990][184]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.13.33:994][184]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.13.33
+[2018.11.15-10.13.33:994][184]LogWorld: Bringing up level for play took: 0.002807
+[2018.11.15-10.13.34:007][184]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,23
+[2018.11.15-10.13.34:007][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.41:303][616]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.41:303][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.13.41:345][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.13.41:345][616]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.41:378][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.13.41:404][617]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.15-10.13.42:138][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.13.42:221][666]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.13.42:236][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.13.42:236][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.13.42:236][666]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:13:42)
+[2018.11.15-10.13.42:236][666]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.13.42:257][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020346s)
+[2018.11.15-10.13.42:257][666]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.13.42:258][666]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2018.11.15-10.13.42:258][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.021188s)
+[2018.11.15-10.13.42:285][666]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.13.42:318][666]LogInit: FAudioDevice initialized.
+[2018.11.15-10.13.42:352][666]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.13.42:357][666]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.13.42
+[2018.11.15-10.13.42:357][666]LogWorld: Bringing up level for play took: 0.003205
+[2018.11.15-10.13.42:370][666]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,133
+[2018.11.15-10.13.42:370][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.14.18:218][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.14.18:218][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.14.18:258][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.14.18:258][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.14.18:285][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.14.18:329][817]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.15-10.14.19:163][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.14.19:228][871]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.14.19:244][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.14.19:244][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.14.19:244][871]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:14:19)
+[2018.11.15-10.14.19:244][871]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.14.19:265][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020180s)
+[2018.11.15-10.14.19:265][871]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.14.19:266][871]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2018.11.15-10.14.19:266][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.021107s)
+[2018.11.15-10.14.19:291][871]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.14.19:327][871]LogInit: FAudioDevice initialized.
+[2018.11.15-10.14.19:357][871]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.14.19:360][871]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.14.19
+[2018.11.15-10.14.19:361][871]LogWorld: Bringing up level for play took: 0.003137
+[2018.11.15-10.14.19:374][871]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,863
+[2018.11.15-10.14.19:374][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.14.54:618][983]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.14.54:618][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.14.54:661][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.14.54:661][983]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.14.54:692][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.14.54:719][984]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.15-10.14.55:719][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.14.55:786][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.14.55:800][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.14.55:800][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.14.55:800][ 48]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:14:55)
+[2018.11.15-10.14.55:800][ 48]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.14.55:821][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020698s)
+[2018.11.15-10.14.55:822][ 48]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.14.55:822][ 48]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2018.11.15-10.14.55:822][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.021620s)
+[2018.11.15-10.14.55:853][ 48]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.14.55:889][ 48]LogInit: FAudioDevice initialized.
+[2018.11.15-10.14.55:918][ 48]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.14.55:922][ 48]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.14.55
+[2018.11.15-10.14.55:923][ 48]LogWorld: Bringing up level for play took: 0.003307
+[2018.11.15-10.14.55:936][ 48]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,301
+[2018.11.15-10.14.55:936][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.15.03:048][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.15.03:048][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.15.03:087][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.15.03:088][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.15.03:122][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.15.03:149][470]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.15-10.15.04:650][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.15.04:732][565]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.15.04:746][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.15.04:746][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.15.04:746][565]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:15:04)
+[2018.11.15-10.15.04:746][565]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.15.04:766][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019381s)
+[2018.11.15-10.15.04:766][565]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.15.04:766][565]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.11.15-10.15.04:767][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.020352s)
+[2018.11.15-10.15.04:799][565]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.15.04:836][565]LogInit: FAudioDevice initialized.
+[2018.11.15-10.15.04:869][565]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.15.04:872][565]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.15.04
+[2018.11.15-10.15.04:873][565]LogWorld: Bringing up level for play took: 0.003081
+[2018.11.15-10.15.04:886][565]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,649
+[2018.11.15-10.15.04:886][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.15.20:674][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.15.20:674][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.15.20:710][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.15.20:711][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.15.20:742][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.15.20:785][513]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.15-10.15.26:303][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.17.20:747][667]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.17.21:695][695]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter9E0B2BC44B1C8215F40B23A182C8BA0F.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.17.23:149][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.17.25:262][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.17.25:312][895]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.17.25:345][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.25:345][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.17.25:345][895]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:17:25)
+[2018.11.15-10.17.25:345][895]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.17.25:365][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020738s)
+[2018.11.15-10.17.25:366][895]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.17.25:366][895]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2018.11.15-10.17.25:366][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.021694s)
+[2018.11.15-10.17.25:400][895]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.17.25:435][895]LogInit: FAudioDevice initialized.
+[2018.11.15-10.17.25:469][895]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.17.25:474][895]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.17.25
+[2018.11.15-10.17.25:474][895]LogWorld: Bringing up level for play took: 0.004419
+[2018.11.15-10.17.25:487][895]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,75
+[2018.11.15-10.17.25:487][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.35:776][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.35:776][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.17.35:813][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.17.35:813][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.35:843][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.17.35:878][512]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.11.15-10.17.37:003][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.17.37:103][585]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.17.37:118][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.37:118][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.17.37:118][585]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:17:37)
+[2018.11.15-10.17.37:118][585]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.17.37:140][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022185s)
+[2018.11.15-10.17.37:141][585]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.17.37:141][585]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.11.15-10.17.37:141][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.023508s)
+[2018.11.15-10.17.37:172][585]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.17.37:208][585]LogInit: FAudioDevice initialized.
+[2018.11.15-10.17.37:239][585]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.17.37:243][585]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.17.37
+[2018.11.15-10.17.37:244][585]LogWorld: Bringing up level for play took: 0.003483
+[2018.11.15-10.17.37:257][585]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 1,02
+[2018.11.15-10.17.37:257][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.42:877][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.42:878][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.17.42:917][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.17.42:917][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.42:945][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.17.42:977][922]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.11.15-10.17.43:944][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.17.44:028][985]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.17.44:043][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.17.44:043][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.17.44:043][985]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:17:44)
+[2018.11.15-10.17.44:043][985]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.17.44:063][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019818s)
+[2018.11.15-10.17.44:063][985]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.17.44:064][985]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2018.11.15-10.17.44:064][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.020658s)
+[2018.11.15-10.17.44:091][985]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.17.44:127][985]LogInit: FAudioDevice initialized.
+[2018.11.15-10.17.44:158][985]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.17.44:162][985]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.17.44
+[2018.11.15-10.17.44:162][985]LogWorld: Bringing up level for play took: 0.003506
+[2018.11.15-10.17.44:175][985]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,061
+[2018.11.15-10.17.44:175][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.18.07:361][372]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.18.07:361][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.18.07:399][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.18.07:399][372]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.18.07:426][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.18.07:475][374]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.15-10.20.07:767][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.23.27:767][259]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto7A69F16E148D82117FBEDEF8FFE916CB6.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto7.umap'
+[2018.11.15-10.23.27:771][259]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.363
+[2018.11.15-10.23.27:771][259]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.363
+[2018.11.15-10.23.27:774][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.11.15-10.23.27:792][259]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.11.15-10.23.27:792][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.11.15-10.23.27:885][259]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter_Auto72632AACC4279D8929F03CDA2BFE4BC6A.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto7.uasset'
+[2018.11.15-10.23.27:885][259]LogFileHelpers: Auto-saving content packages took 0.112
+[2018.11.15-10.26.36:629][591]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.26.38:423][657]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter75064F7C4F829332D7D4C9924C729CCA.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.26.40:397][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.26.45:378][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.33.34:895][ 95]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto8FC1536EF42F678928676A28FC23F1EF0.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto8.umap'
+[2018.11.15-10.33.35:175][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.639
+[2018.11.15-10.33.35:175][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.639
+[2018.11.15-10.33.35:179][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.11.15-10.33.35:198][ 95]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.11.15-10.33.35:198][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.11.15-10.33.35:344][ 95]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter_Auto8D176419344FB8D9C09F2CFAF26F057CB.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto8.uasset'
+[2018.11.15-10.33.35:345][ 95]LogFileHelpers: Auto-saving content packages took 0.167
+[2018.11.15-10.34.03:010][600]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.34.05:457][706]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter56B0ADCD411A52D0727D0AAEC6E256CD.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.34.07:598][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.34.30:416][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.34.43:203][141]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.34.44:713][203]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter558AF44B4D53D1209B93839F191E70C9.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.34.57:515][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.37.41:682][803]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.37.42:884][845]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacterB1F6CCDA46B8188D552720A62474603B.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.37.58:740][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.38.02:557][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.38.02:624][206]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.38.02:661][206]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.02:661][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.38.02:662][206]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:38:02)
+[2018.11.15-10.38.02:662][206]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.38.02:725][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064280s)
+[2018.11.15-10.38.02:726][206]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.38.02:726][206]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2018.11.15-10.38.02:726][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.065113s)
+[2018.11.15-10.38.02:761][206]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.38.02:796][206]LogInit: FAudioDevice initialized.
+[2018.11.15-10.38.02:830][206]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.38.02:833][206]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.38.02
+[2018.11.15-10.38.02:834][206]LogWorld: Bringing up level for play took: 0.003157
+[2018.11.15-10.38.02:847][206]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,61
+[2018.11.15-10.38.02:847][206]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.18:416][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.18:416][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.38.18:453][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.38.18:453][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.18:484][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.38.18:518][137]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.15-10.38.19:535][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.38.19:635][204]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.38.19:649][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.19:649][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.38.19:649][204]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:38:19)
+[2018.11.15-10.38.19:649][204]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.38.19:672][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022556s)
+[2018.11.15-10.38.19:673][204]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.38.19:673][204]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2018.11.15-10.38.19:673][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.023415s)
+[2018.11.15-10.38.19:703][204]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.38.19:737][204]LogInit: FAudioDevice initialized.
+[2018.11.15-10.38.19:769][204]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.38.19:773][204]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.38.19
+[2018.11.15-10.38.19:773][204]LogWorld: Bringing up level for play took: 0.003248
+[2018.11.15-10.38.19:786][204]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,451
+[2018.11.15-10.38.19:786][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.27:211][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.27:211][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.38.27:247][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.38.27:247][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.27:277][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.38.27:335][650]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.15-10.38.30:337][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.38.45:376][712]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.38.47:341][784]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter86B7F9564E51F4C4E9DFB2871357C43B.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.38.52:279][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.38.53:408][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.38.53:475][152]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.38.53:512][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.38.53:512][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.38.53:512][152]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:38:53)
+[2018.11.15-10.38.53:512][152]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.38.53:534][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021293s)
+[2018.11.15-10.38.53:534][152]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.38.53:534][152]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2018.11.15-10.38.53:534][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.022112s)
+[2018.11.15-10.38.53:567][152]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.38.53:603][152]LogInit: FAudioDevice initialized.
+[2018.11.15-10.38.53:635][152]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.38.53:639][152]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.38.53
+[2018.11.15-10.38.53:639][152]LogWorld: Bringing up level for play took: 0.003499
+[2018.11.15-10.38.53:652][152]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,585
+[2018.11.15-10.38.53:652][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.39.11:091][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.39.11:091][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.39.11:128][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.39.11:128][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.39.11:154][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.39.11:195][199]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.15-10.39.12:212][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.39.12:312][266]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.39.12:327][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.39.12:327][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.39.12:327][266]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:39:12)
+[2018.11.15-10.39.12:327][266]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.39.12:350][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022950s)
+[2018.11.15-10.39.12:351][266]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.39.12:351][266]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2018.11.15-10.39.12:351][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.024278s)
+[2018.11.15-10.39.12:382][266]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.39.12:415][266]LogInit: FAudioDevice initialized.
+[2018.11.15-10.39.12:445][266]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.39.12:449][266]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.39.12
+[2018.11.15-10.39.12:449][266]LogWorld: Bringing up level for play took: 0.003299
+[2018.11.15-10.39.12:462][266]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,225
+[2018.11.15-10.39.12:462][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.39.25:723][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.39.25:723][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.39.25:764][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.39.25:764][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.39.25:797][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.39.25:828][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.15-10.40.20:342][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.43.23:286][275]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.43.44:927][492]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.43.46:376][549]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter5BD03069464A4E325BF56DA37EB73347.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.44.08:717][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.45.16:402][292]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto9ECCD855B46A5F111FD8FE2852F0F265A.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto9.umap'
+[2018.11.15-10.45.16:407][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.376
+[2018.11.15-10.45.16:407][292]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.376
+[2018.11.15-10.45.16:412][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.11.15-10.45.16:429][292]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.11.15-10.45.16:429][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.11.15-10.45.16:547][292]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter_Auto9D2CEA3FA4C748CE369FCCBB7BFA57F1D.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto9.uasset'
+[2018.11.15-10.45.16:548][292]LogFileHelpers: Auto-saving content packages took 0.138
+[2018.11.15-10.47.03:867][491]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.47.05:164][537]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter2D6174294FB4B776494167AF4E61B44E.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.47.10:485][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.47.11:664][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.47.11:747][931]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.47.11:791][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.47.11:791][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.47.11:791][931]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:47:11)
+[2018.11.15-10.47.11:791][931]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.47.11:813][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022091s)
+[2018.11.15-10.47.11:814][931]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.47.11:815][931]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2018.11.15-10.47.11:815][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.023299s)
+[2018.11.15-10.47.11:849][931]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.47.11:884][931]LogInit: FAudioDevice initialized.
+[2018.11.15-10.47.11:913][931]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.47.11:916][931]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.47.11
+[2018.11.15-10.47.11:917][931]LogWorld: Bringing up level for play took: 0.002949
+[2018.11.15-10.47.11:930][931]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,307
+[2018.11.15-10.47.11:930][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.49.20:913][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.49.20:913][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.49.20:953][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.49.20:953][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.49.20:980][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.49.21:016][667]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.15-10.49.53:767][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.49.53:867][925]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.49.53:883][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.49.53:883][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.49.53:883][925]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:49:53)
+[2018.11.15-10.49.53:883][925]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.49.53:905][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023020s)
+[2018.11.15-10.49.53:907][925]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.49.53:907][925]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2018.11.15-10.49.53:907][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.024689s)
+[2018.11.15-10.49.53:940][925]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.49.53:976][925]LogInit: FAudioDevice initialized.
+[2018.11.15-10.49.54:008][925]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.49.54:012][925]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.49.54
+[2018.11.15-10.49.54:012][925]LogWorld: Bringing up level for play took: 0.003216
+[2018.11.15-10.49.54:025][925]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,212
+[2018.11.15-10.49.54:025][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.50.57:723][727]Set new viewmode: Wireframe
+[2018.11.15-10.51.09:496][434]Set new viewmode: Wireframe
+[2018.11.15-10.51.11:329][544]Set new viewmode: Wireframe
+[2018.11.15-10.51.12:713][627]Set new viewmode: Wireframe
+[2018.11.15-10.51.13:546][677]Set new viewmode: Wireframe
+[2018.11.15-10.51.14:614][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.51.14:614][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.51.14:657][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.51.14:657][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.51.14:691][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.51.14:728][743]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.15-10.51.16:452][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.51.16:934][875]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.51.16:950][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.51.16:950][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.51.16:950][875]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:51:16)
+[2018.11.15-10.51.16:950][875]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.51.16:972][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022292s)
+[2018.11.15-10.51.16:973][875]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.51.16:973][875]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2018.11.15-10.51.16:973][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.023136s)
+[2018.11.15-10.51.17:004][875]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.51.17:040][875]LogInit: FAudioDevice initialized.
+[2018.11.15-10.51.17:072][875]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.51.17:077][875]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.51.17
+[2018.11.15-10.51.17:077][875]LogWorld: Bringing up level for play took: 0.003359
+[2018.11.15-10.51.17:090][875]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,853
+[2018.11.15-10.51.17:090][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.52.41:879][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.52.41:879][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.52.41:919][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.52.41:919][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.52.41:952][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.52.41:980][959]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.15-10.52.58:781][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.54.14:387][788]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.54.17:841][965]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacterC9857F7444777A8F455810852447F07B.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.54.28:118][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.54.31:482][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.54.31:548][787]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.54.31:589][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.54.31:589][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.54.31:589][787]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:54:31)
+[2018.11.15-10.54.31:589][787]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.54.31:610][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020745s)
+[2018.11.15-10.54.31:611][787]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.54.31:611][787]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2018.11.15-10.54.31:611][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.021661s)
+[2018.11.15-10.54.31:641][787]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.54.31:674][787]LogInit: FAudioDevice initialized.
+[2018.11.15-10.54.31:705][787]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.54.31:708][787]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.54.31
+[2018.11.15-10.54.31:709][787]LogWorld: Bringing up level for play took: 0.003060
+[2018.11.15-10.54.31:722][787]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level -0,514
+[2018.11.15-10.54.31:722][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.55.20:230][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.55.20:230][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.55.20:269][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.55.20:269][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.55.20:303][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.55.20:331][697]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.15-10.55.23:008][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.55.29:719][240]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.55.30:769][271]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter650E1E6743A93012E19A7D968D64DAB8.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-10.55.32:687][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.55.34:439][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.55.34:521][419]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.55.34:561][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.55.34:561][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.55.34:561][419]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:55:34)
+[2018.11.15-10.55.34:561][419]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.55.34:581][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019450s)
+[2018.11.15-10.55.34:581][419]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.55.34:582][419]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.11.15-10.55.34:582][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.020529s)
+[2018.11.15-10.55.34:617][419]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.55.34:651][419]LogInit: FAudioDevice initialized.
+[2018.11.15-10.55.34:682][419]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.55.34:686][419]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.55.34
+[2018.11.15-10.55.34:686][419]LogWorld: Bringing up level for play took: 0.003240
+[2018.11.15-10.55.34:699][419]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,462
+[2018.11.15-10.55.34:699][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.56.55:216][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.56.55:216][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.56.55:256][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.56.55:256][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.56.55:290][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.56.55:317][247]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.15-10.56.57:269][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-10.57.02:665][667]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.11.15-10.57.05:916][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-10.57.06:467][858]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-10.57.06:507][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.57.06:507][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-10.57.06:507][858]PIE: New page: PIE session: Collecting_Level (15 nov. 2018 12:57:06)
+[2018.11.15-10.57.06:507][858]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level
+[2018.11.15-10.57.06:527][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019756s)
+[2018.11.15-10.57.06:528][858]LogAIModule: Creating AISystem for world Collecting_Level
+[2018.11.15-10.57.06:528][858]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.11.15-10.57.06:528][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level (0.020595s)
+[2018.11.15-10.57.06:604][858]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-10.57.06:640][858]LogInit: FAudioDevice initialized.
+[2018.11.15-10.57.06:673][858]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.15-10.57.06:676][858]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level.Collecting_Level up for play (max tick rate 60) at 2018.11.15-11.57.06
+[2018.11.15-10.57.06:677][858]LogWorld: Bringing up level for play took: 0.003126
+[2018.11.15-10.57.06:690][858]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Collecting_Level 0,453
+[2018.11.15-10.57.06:696][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.58.28:818][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.58.29:123][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.58.29:159][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-10.58.29:159][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level' with GeneratedClass '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Collecting_Level.Collecting_Level:PersistentLevel.Collecting_Level'
+[2018.11.15-10.58.29:193][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-10.58.29:222][783]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.15-11.03.43:801][798]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_Auto08C11946B43FF5F2C5FDEADBE5F565DA0.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Maps/Collecting_Level_Auto0.umap'
+[2018.11.15-11.03.43:807][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Collecting_Level' took 0.295
+[2018.11.15-11.03.43:807][798]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.295
+[2018.11.15-11.03.43:810][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.11.15-11.03.43:830][798]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.11.15-11.03.43:830][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.11.15-11.03.43:965][798]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter_Auto0242F0B94440D27665CD8058F1AA92F26.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto0.uasset'
+[2018.11.15-11.03.43:966][798]LogFileHelpers: Auto-saving content packages took 0.157
+[2018.11.15-12.57.46:050][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-12.59.51:439][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-12.59.52:794][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-12.59.56:323][986]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_LevelE4FA596548445505017340B57640C1F6.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collecting_Level.umap'
+[2018.11.15-12.59.56:487][986]LogFileHelpers: Saving map 'Collecting_Level' took 3.668
+[2018.11.15-12.59.56:825][986]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collecting_Level_BuiltData86222CDF47B1D8681EBEEABA317B2643.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collecting_Level_BuiltData.uasset'
+[2018.11.15-12.59.56:956][986]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/FirstPersonCharacter7A3A08594F1576F2378615BFA3CC81BD.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.11.15-12.59.59:124][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-12.59.59:543][123]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.11.15-12.59.59:690][123]LogSlate: Window 'Donjon - Unreal Editor' being destroyed
+[2018.11.15-12.59.59:691][123]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-13.00.00:139][124]Cmd: QUIT_EDITOR
+[2018.11.15-13.00.01:402][124]LogExit: Preparing to exit.
