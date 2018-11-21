@@ -648,3 +648,128 @@ LogInit: Object subsystem initialized
 [2018.11.21-15.34.19:451][355]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/MainMenu_Widget475AB89D4C49557325B6CBB82B1D074E.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/MyBlueprints/UI/MainMenu_Widget.uasset'
 [2018.11.21-15.34.26:494][777]BlueprintLog: New page: Compile MenuPause
 [2018.11.21-15.34.27:403][819]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/MenuPauseA522D9084FFA921DC31531952EB59F20.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/MyBlueprints/UI/MenuPause.uasset'
+[2018.11.21-15.40.53:382][752]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-15.57.50:588][289]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-16.00.30:228][188]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-16.02.47:495][621]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu
+[2018.11.21-16.03.20:412][574]BlueprintLog: New page: Compile Menu
+[2018.11.21-16.03.21:469][606]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/MenuCE2B15CF4EDB6EDC58B6AD8734D482A6.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Menu.umap'
+[2018.11.21-16.03.21:529][606]LogFileHelpers: Saving map 'Menu' took 0.343
+[2018.11.21-16.03.23:979][752]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-16.03.55:909][933]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-16.07.45:023][478]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-16.07.45:023][478]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading ../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.umap.
+[2018.11.21-16.07.45:108][478]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-16.07.45:108][478]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading ../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.umap.
+[2018.11.21-16.07.45:163][478]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-16.07.45:163][478]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading NULL.
+[2018.11.21-16.07.45:163][478]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-16.07.45:163][478]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading NULL.
+[2018.11.21-16.07.45:237][478]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-16.07.45:237][478]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading NULL.
+[2018.11.21-16.07.45:266][478]LogAIModule: Creating AISystem for world Collectibles_Grappin_Ennemis
+[2018.11.21-16.07.45:308][478]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis
+[2018.11.21-16.07.45:354][478]Cmd: MAP LOAD FILE="../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.21-16.07.45:354][478]LightingResults: New page: Lighting Build
+[2018.11.21-16.07.45:355][478]LoadErrors: New page: Loading map: Collectibles_Grappin_Ennemis.umap
+[2018.11.21-16.07.45:417][478]MapCheck: New page: Map Check
+[2018.11.21-16.07.45:417][478]LightingResults: New page: Lighting Build
+[2018.11.21-16.07.45:598][478]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.21-16.07.45:687][478]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.21-16.07.45:762][478]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75,12ms to complete.
+[2018.11.21-16.07.45:762][478]LogFileHelpers: Loading map 'Collectibles_Grappin_Ennemis' took 0.413
+[2018.11.21-16.07.49:111][665]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis:PersistentLevel.Collectibles_Grappin_Ennemis
+[2018.11.21-16.10.01:411][501]LogAIModule: Creating AISystem for world Menu
+[2018.11.21-16.10.09:201][967]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Menu.Menu
+[2018.11.21-16.10.10:917][967]LogSlate: Window 'Save Content' being destroyed
+[2018.11.21-16.10.11:760][967]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collectibles_Grappin_Ennemis2D99D9384C36C18D480C7B99BCBFD6F7.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.umap'
+[2018.11.21-16.10.11:815][967]LogFileHelpers: Saving map 'Collectibles_Grappin_Ennemis' took 0.891
+[2018.11.21-16.10.11:818][967]Cmd: MAP LOAD FILE="../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.21-16.10.11:819][967]LightingResults: New page: Lighting Build
+[2018.11.21-16.10.11:819][967]LoadErrors: New page: Loading map: Menu.umap
+[2018.11.21-16.10.11:880][967]MapCheck: New page: Map Check
+[2018.11.21-16.10.11:880][967]LightingResults: New page: Lighting Build
+[2018.11.21-16.10.11:995][967]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.21-16.10.12:102][967]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.21-16.10.12:182][967]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79,298ms to complete.
+[2018.11.21-16.10.12:184][967]LogFileHelpers: Loading map 'Menu' took 0.366
+[2018.11.21-16.10.16:609][224]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu
+[2018.11.21-16.10.27:829][875]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.21-16.10.46:231][968]LogAIModule: Creating AISystem for world Collectibles_Grappin_Ennemis
+[2018.11.21-16.10.46:262][968]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis
+[2018.11.21-16.10.46:304][968]Cmd: MAP LOAD FILE="../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.21-16.10.46:305][968]LightingResults: New page: Lighting Build
+[2018.11.21-16.10.46:305][968]LoadErrors: New page: Loading map: Collectibles_Grappin_Ennemis.umap
+[2018.11.21-16.10.46:368][968]MapCheck: New page: Map Check
+[2018.11.21-16.10.46:368][968]LightingResults: New page: Lighting Build
+[2018.11.21-16.10.46:532][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.21-16.10.46:623][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.21-16.10.46:712][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88,338ms to complete.
+[2018.11.21-16.10.46:712][968]LogFileHelpers: Loading map 'Collectibles_Grappin_Ennemis' took 0.408
+[2018.11.21-16.10.51:721][260]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis:PersistentLevel.Collectibles_Grappin_Ennemis
+[2018.11.21-16.12.51:832][361]LogAIModule: Creating AISystem for world Menu
+[2018.11.21-16.12.51:836][361]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Menu.Menu
+[2018.11.21-16.12.53:521][361]LogSlate: Window 'Save Content' being destroyed
+[2018.11.21-16.12.53:661][361]LogBlueprint: Error: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] The type of  Object  is undetermined.  Connect something to  Cast To MainMenu_Widget  to imply a specific type.
+[2018.11.21-16.12.53:661][361]LogBlueprint: Error: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.11.21-16.12.53:662][361]LogBlueprint: Warning: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] [9441,71] Compile of PersistentLevel.Collectibles_Grappin_Ennemis failed. 2 Fatal Issue(s) 0 Warning(s) [in 8 ms] (/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis:PersistentLevel.Collectibles_Grappin_Ennemis)
+[2018.11.21-16.12.54:420][361]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collectibles_Grappin_Ennemis221ACA2C4CC77B63EC18D8BB132C38DE.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.umap'
+[2018.11.21-16.12.54:485][361]LogFileHelpers: Saving map 'Collectibles_Grappin_Ennemis' took 0.958
+[2018.11.21-16.12.54:487][361]Cmd: MAP LOAD FILE="../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.21-16.12.54:487][361]LightingResults: New page: Lighting Build
+[2018.11.21-16.12.54:487][361]LoadErrors: New page: Loading map: Menu.umap
+[2018.11.21-16.12.54:548][361]MapCheck: New page: Map Check
+[2018.11.21-16.12.54:548][361]LightingResults: New page: Lighting Build
+[2018.11.21-16.12.54:665][361]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.21-16.12.54:752][361]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.21-16.12.54:844][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91,049ms to complete.
+[2018.11.21-16.12.54:844][361]LogFileHelpers: Loading map 'Menu' took 0.357
+[2018.11.21-16.12.57:525][514]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu
+[2018.11.21-16.13.31:481][529]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.21-16.13.44:786][323]LogBlueprint: Error: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] The type of  Object  is undetermined.  Connect something to  Cast To MainMenu_Widget  to imply a specific type.
+[2018.11.21-16.13.44:787][323]LogBlueprint: Error: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.11.21-16.13.44:787][323]LogBlueprint: Warning: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] [9492,84] Compile of PersistentLevel.Collectibles_Grappin_Ennemis failed. 2 Fatal Issue(s) 0 Warning(s) [in 1 ms] (/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis:PersistentLevel.Collectibles_Grappin_Ennemis)
+[2018.11.21-16.13.44:901][323]LogAIModule: Creating AISystem for world Collectibles_Grappin_Ennemis
+[2018.11.21-16.13.44:933][323]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis
+[2018.11.21-16.13.44:974][323]Cmd: MAP LOAD FILE="../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.21-16.13.44:974][323]LightingResults: New page: Lighting Build
+[2018.11.21-16.13.44:975][323]LoadErrors: New page: Loading map: Collectibles_Grappin_Ennemis.umap
+[2018.11.21-16.13.45:037][323]MapCheck: New page: Map Check
+[2018.11.21-16.13.45:037][323]LightingResults: New page: Lighting Build
+[2018.11.21-16.13.45:217][323]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.21-16.13.45:312][323]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.21-16.13.45:404][323]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91,66ms to complete.
+[2018.11.21-16.13.45:404][323]LogFileHelpers: Loading map 'Collectibles_Grappin_Ennemis' took 0.431
+[2018.11.21-16.13.47:509][440]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis:PersistentLevel.Collectibles_Grappin_Ennemis
+[2018.11.21-16.14.17:827][204]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.21-16.15.01:295][764]BlueprintLog: New page: Compile Collectibles_Grappin_Ennemis
+[2018.11.21-16.15.01:304][764]LogBlueprint: Error: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] The type of  Object  is undetermined.  Connect something to  Cast To MainMenu_Widget  to imply a specific type.
+[2018.11.21-16.15.01:304][764]LogBlueprint: Error: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.11.21-16.15.01:493][764]LogBlueprint: Warning: [Compiler PersistentLevel.Collectibles_Grappin_Ennemis] [9569,54] Compile of PersistentLevel.Collectibles_Grappin_Ennemis failed. 2 Fatal Issue(s) 0 Warning(s) [in 198 ms] (/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis:PersistentLevel.Collectibles_Grappin_Ennemis)
+[2018.11.21-16.16.46:348][  4]BlueprintLog: New page: Compile Collectibles_Grappin_Ennemis
+[2018.11.21-16.16.48:527][ 67]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/Collectibles_Grappin_Ennemis1CC6566B43DCA4C89DDA12BFB2BE04F7.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.umap'
+[2018.11.21-16.16.48:600][ 67]LogFileHelpers: Saving map 'Collectibles_Grappin_Ennemis' took 0.945
+[2018.11.21-16.16.53:349][350]LogAIModule: Creating AISystem for world Menu
+[2018.11.21-16.16.53:352][350]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Menu.Menu
+[2018.11.21-16.16.53:390][350]Cmd: MAP LOAD FILE="../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.21-16.16.53:390][350]LightingResults: New page: Lighting Build
+[2018.11.21-16.16.53:391][350]LoadErrors: New page: Loading map: Menu.umap
+[2018.11.21-16.16.53:467][350]MapCheck: New page: Map Check
+[2018.11.21-16.16.53:467][350]LightingResults: New page: Lighting Build
+[2018.11.21-16.16.53:595][350]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.21-16.16.53:695][350]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.21-16.16.53:791][350]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95,444ms to complete.
+[2018.11.21-16.16.53:791][350]LogFileHelpers: Loading map 'Menu' took 0.402
+[2018.11.21-16.16.55:386][441]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-16.21.56:179][476]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-16.27.47:766][817]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-16.27.55:432][817]LogSlate: Window 'Save Content' being destroyed
+[2018.11.21-16.27.55:437][817]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2018.11.21-16.27.55:437][817]PIE: Warning: PIE failed because map save was canceled
+[2018.11.21-16.27.58:494][  0]LogSlate: Window 'Message Log' being destroyed
+[2018.11.21-16.27.58:500][  0]LogSlate: Window 'Message Log' being destroyed
+[2018.11.21-16.28.12:189][819]LogTemp: Repeating last play command: Standalone Game
+[2018.11.21-16.28.13:957][819]LogSlate: Window 'Save Content' being destroyed
+[2018.11.21-16.28.14:013][819]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/MenuPause34386506463163942E461B90871DA013.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/MyBlueprints/UI/MenuPause.uasset'
+[2018.11.21-16.29.35:689][244]BlueprintLog: New page: Compile MenuPause
+[2018.11.21-16.29.36:947][311]LogSavePackage: Moving '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Saved/MenuPause264E6510434894E4B78078B5FDA0FBAB.tmp' to '../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Content/FirstPersonBP/Blueprints/MyBlueprints/UI/MenuPause.uasset'

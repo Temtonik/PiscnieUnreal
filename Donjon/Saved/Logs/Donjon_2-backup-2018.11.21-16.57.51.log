@@ -1,0 +1,1369 @@
+﻿Log file open, 11/21/18 16:40:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Donjon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293416
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.057s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  /Game/FirstPersonBP/Maps/Menu -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: D:/Unreal Engine 4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.21-15.40.54:943][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.21-15.40.54:943][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.21-15.40.54:946][  0]LogHAL: Display: Platform has ~ 16 GB [17059442688 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.21-15.40.54:946][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.21-15.40.54:946][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.21-15.40.54:947][  0]LogInit: Computer: MSI
+[2018.11.21-15.40.54:947][  0]LogInit: User: Killian
+[2018.11.21-15.40.54:947][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.21-15.40.54:947][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.11.21-15.40.54:947][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.21-15.40.54:947][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.21-15.40.54:947][  0]LogMemory: Process Physical Memory: 101.60 MB used, 101.60 MB peak
+[2018.11.21-15.40.54:947][  0]LogMemory: Process Virtual Memory: 93.48 MB used, 93.48 MB peak
+[2018.11.21-15.40.54:947][  0]LogMemory: Physical Memory: 8039.11 MB used,  8230.04 MB free, 16269.15 MB total
+[2018.11.21-15.40.54:947][  0]LogMemory: Virtual Memory: 4647.29 MB used,  8230.04 MB free, 134217728.00 MB total
+[2018.11.21-15.40.54:968][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.21-15.40.54:968][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.21-15.40.54:969][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.21-15.40.54:972][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2018.11.21-15.40.54:998][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.21-15.40.54:998][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.21-15.40.55:086][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.21-15.40.55:087][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.21-15.40.55:175][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.11.21-15.40.55:175][  0]LogD3D11RHI:       2987/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.21-15.40.55:183][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.21-15.40.55:184][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.21-15.40.55:186][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.21-15.40.55:186][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.21-15.40.55:186][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.21-15.40.55:204][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.21-15.40.55:204][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.21-15.40.55:204][  0]LogWindows: EnumDisplayDevices:
+[2018.11.21-15.40.55:204][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.21-15.40.55:204][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.21-15.40.55:205][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.21-15.40.55:205][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.21-15.40.55:205][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.21-15.40.55:205][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.21-15.40.55:206][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.21-15.40.55:206][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.11.21-15.40.55:206][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.11.21-15.40.55:206][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2018.11.21-15.40.55:206][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2018.11.21-15.40.55:206][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2018.11.21-15.40.55:248][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.21-15.40.55:266][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.21-15.40.55:268][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/Intermediate/Shaders/WorkingDirectory/7888/).
+[2018.11.21-15.40.55:268][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Killian/AppData/Local/Temp/UnrealShaderWorkingDir/330F7A774A6176175FFA11A9A73CF7B1/'.
+[2018.11.21-15.40.55:550][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.21-15.40.55:567][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.21-15.40.55:580][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.21-15.40.55:593][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.21-15.40.55:593][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.21-15.40.55:633][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.21-15.40.55:633][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.21-15.40.55:633][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.21-15.40.56:352][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.21-15.40.56:407][  0]LogDerivedDataCache: Loaded boot cache 0.06s 72MB C:/Users/Killian/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.21-15.40.56:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Killian/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.21-15.40.56:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.21-15.40.56:408][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.21-15.40.56:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../E-artsup/B2/Unreal/PiscineUnreal/PiscnieUnreal/Donjon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.21-15.40.56:408][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.21-15.40.56:422][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.21-15.40.56:435][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Killian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.21-15.40.56:435][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.21-15.40.56:435][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.21-15.40.56:454][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.21-15.40.56:456][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.21-15.40.56:456][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.21-15.40.56:498][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.21-15.40.56:498][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.21-15.40.56:498][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.11.21-15.40.56:498][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.11.21-15.40.56:856][  0]LogStreaming: Display: Took  0.358s to InitGameTextLocalization.
+[2018.11.21-15.40.56:862][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2018.11.21-15.40.57:056][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.019540 seconds
+[2018.11.21-15.40.57:169][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.21-15.40.57:287][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.21-15.40.57:290][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.21-15.40.57:290][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.21-15.40.57:290][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.21-15.40.57:290][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.21-15.40.57:303][  0]LogNetVersion: Donjon 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 914305754)
+[2018.11.21-15.40.57:751][  0]LogMoviePlayer: Initializing movie player
+[2018.11.21-15.40.57:922][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.21-15.40.57:935][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.21-15.40.58:022][  0]SourceControl: Source control is disabled
+[2018.11.21-15.40.58:022][  0]SourceControl: Source control is disabled
+[2018.11.21-15.40.58:023][  0]SourceControl: Source control is disabled
+[2018.11.21-15.40.58:147][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.21-15.40.58:184][  0]LogOcInput: OculusInput pre-init called
+[2018.11.21-15.40.58:192][  0]LogUObjectArray: 42168 objects as part of root set at end of initial load.
+[2018.11.21-15.40.58:192][  0]LogUObjectAllocator: 7432352 out of 0 bytes used by permanent object pool.
+[2018.11.21-15.40.58:192][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.21-15.40.58:243][  0]LogEngine: Initializing Engine...
+[2018.11.21-15.40.58:264][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.21-15.40.58:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.21-15.40.58:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.21-15.40.58:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.21-15.40.58:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.21-15.40.58:451][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.21-15.40.58:456][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.21-15.40.58:506][  0]LogInit: FAudioDevice initialized.
+[2018.11.21-15.40.58:518][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.21-15.40.58:527][  0]LogInit: Texture streaming: Enabled
+[2018.11.21-15.40.58:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-15.40.58:648][  0]LogInit: Display: Game Engine Initialized.
+[2018.11.21-15.40.58:648][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.21-15.40.58:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.21-15.40.58:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.21-15.40.58:649][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.21-15.40.58:649][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.21-15.40.58:661][  0]LogInit: Display: Starting Game.
+[2018.11.21-15.40.58:661][  0]LogNet: Browse: /Game/FirstPersonBP/Maps/Menu?Name=Player
+[2018.11.21-15.40.58:663][  0]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Menu?Name=Player
+[2018.11.21-15.40.58:719][  0]LogAIModule: Creating AISystem for world Menu
+[2018.11.21-15.40.58:719][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.21-15.40.58:720][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Menu.Menu up for play (max tick rate 0) at 2018.11.21-16.40.58
+[2018.11.21-15.40.58:720][  0]LogWorld: Bringing up level for play took: 0.000481
+[2018.11.21-15.40.58:721][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.21-15.40.58:724][  0]LogLoad: Took 0.060273 seconds to LoadMap(/Game/FirstPersonBP/Maps/Menu)
+[2018.11.21-15.40.58:776][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.11.21-15.40.58:776][  0]LogLoad: (Engine Initialization) Total time: 5.28 seconds
+[2018.11.21-15.40.58:776][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.21-15.40.58:794][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.21-15.40.58:798][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.21-15.41.15:016][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.21-15.41.15:115][  8]LogPackageName: SearchForPackageOnDisk took   0.054s to resolve Collectibles_Grappin_Ennemis.umap.
+[2018.11.21-15.41.15:162][  8]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve Collectibles_Grappin_Ennemis.umap.
+[2018.11.21-15.41.15:162][  8]LogNet: Browse: /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis
+[2018.11.21-15.41.15:162][  8]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis
+[2018.11.21-15.41.15:330][  8]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-15.41.15:330][  8]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode': Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-15.41.15:330][  8]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading NULL.
+[2018.11.21-15.41.15:330][  8]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode': Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading NULL.
+[2018.11.21-15.41.15:573][  8]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-15.41.15:573][  8]LoadErrors: Failed to load /Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode.Menu_GameMode_C Referenced by WorldInfo_0
+[2018.11.21-15.41.15:573][  8]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode': Can't find file '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode'
+[2018.11.21-15.41.15:573][  8]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading NULL.
+[2018.11.21-15.41.15:574][  8]LoadErrors: Failed to load /Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode.Menu_GameMode_C Referenced by WorldInfo_0
+[2018.11.21-15.41.15:574][  8]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode': Can't find file for asset '/Game/FirstPersonBP/Blueprints/MyBlueprints/Menu_GameMode' while loading NULL.
+[2018.11.21-15.41.15:966][  8]LogAIModule: Creating AISystem for world Collectibles_Grappin_Ennemis
+[2018.11.21-15.41.15:979][  8]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.21-15.41.16:002][  8]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis up for play (max tick rate 0) at 2018.11.21-16.41.16
+[2018.11.21-15.41.16:004][  8]LogWorld: Bringing up level for play took: 0.024371
+[2018.11.21-15.41.16:006][  8]LogLoad: Took 0.844482 seconds to LoadMap(/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis)
+[2018.11.21-15.41.30:016][874]PIE: Warning: FirstPersonProjectile_C_24.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.31:016][936]PIE: Warning: FirstPersonProjectile_C_29.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.32:017][998]PIE: Warning: FirstPersonProjectile_C_34.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.33:016][ 60]PIE: Warning: FirstPersonProjectile_C_39.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.34:017][122]PIE: Warning: FirstPersonProjectile_C_44.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.35:017][184]PIE: Warning: FirstPersonProjectile_C_49.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.36:017][246]PIE: Warning: FirstPersonProjectile_C_54.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.37:016][308]PIE: Warning: FirstPersonProjectile_C_60.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.38:018][370]PIE: Warning: FirstPersonProjectile_C_66.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.39:017][432]PIE: Warning: FirstPersonProjectile_C_71.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.40:017][494]PIE: Warning: FirstPersonProjectile_C_77.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.41:018][556]PIE: Warning: FirstPersonProjectile_C_83.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.42:017][618]PIE: Warning: FirstPersonProjectile_C_88.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.43:018][680]PIE: Warning: FirstPersonProjectile_C_93.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.44:018][742]PIE: Warning: FirstPersonProjectile_C_99.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.45:020][804]PIE: Warning: FirstPersonProjectile_C_104.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.46:018][866]PIE: Warning: FirstPersonProjectile_C_109.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.48:437][ 16]PIE: Warning: FirstPersonProjectile_C_114.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.51:953][234]PIE: Warning: FirstPersonProjectile_C_118.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.52:953][296]PIE: Warning: FirstPersonProjectile_C_121.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.53:954][358]PIE: Warning: FirstPersonProjectile_C_126.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.54:954][420]PIE: Warning: FirstPersonProjectile_C_131.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.55:953][482]PIE: Warning: FirstPersonProjectile_C_135.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.56:955][544]PIE: Warning: FirstPersonProjectile_C_140.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.57:954][606]PIE: Warning: FirstPersonProjectile_C_144.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.58:954][668]PIE: Warning: FirstPersonProjectile_C_146.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.41.59:960][730]PIE: Warning: FirstPersonProjectile_C_147.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.00:959][792]PIE: Warning: FirstPersonProjectile_C_148.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.01:961][854]PIE: Warning: FirstPersonProjectile_C_149.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.02:960][916]PIE: Warning: FirstPersonProjectile_C_150.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.03:961][978]PIE: Warning: FirstPersonProjectile_C_151.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.04:961][ 40]PIE: Warning: FirstPersonProjectile_C_152.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.05:960][102]PIE: Warning: FirstPersonProjectile_C_153.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.06:960][164]PIE: Warning: FirstPersonProjectile_C_154.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.07:960][226]PIE: Warning: FirstPersonProjectile_C_155.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.08:960][288]PIE: Warning: FirstPersonProjectile_C_156.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.09:961][350]PIE: Warning: FirstPersonProjectile_C_157.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.10:961][412]PIE: Warning: FirstPersonProjectile_C_158.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.11:961][474]PIE: Warning: FirstPersonProjectile_C_164.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.12:961][536]PIE: Warning: FirstPersonProjectile_C_167.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.17:639][826]PIE: Warning: FirstPersonProjectile_C_179.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.18:897][904]PIE: Warning: FirstPersonProjectile_C_181.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.19:897][966]PIE: Warning: FirstPersonProjectile_C_183.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.20:897][ 28]PIE: Warning: FirstPersonProjectile_C_184.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.21:897][ 90]PIE: Warning: FirstPersonProjectile_C_186.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.22:897][152]PIE: Warning: FirstPersonProjectile_C_188.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.23:898][214]PIE: Warning: FirstPersonProjectile_C_190.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.24:897][276]PIE: Warning: FirstPersonProjectile_C_192.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.25:898][338]PIE: Warning: FirstPersonProjectile_C_195.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.26:897][400]PIE: Warning: FirstPersonProjectile_C_196.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.27:898][462]PIE: Warning: FirstPersonProjectile_C_197.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.28:898][524]PIE: Warning: FirstPersonProjectile_C_199.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.29:898][586]PIE: Warning: FirstPersonProjectile_C_201.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.30:899][648]PIE: Warning: FirstPersonProjectile_C_203.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.31:899][710]PIE: Warning: FirstPersonProjectile_C_204.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.32:899][772]PIE: Warning: FirstPersonProjectile_C_206.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.33:899][834]PIE: Warning: FirstPersonProjectile_C_208.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.34:900][896]PIE: Warning: FirstPersonProjectile_C_210.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.35:899][958]PIE: Warning: FirstPersonProjectile_C_212.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.36:899][ 20]PIE: Warning: FirstPersonProjectile_C_213.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.37:898][ 82]PIE: Warning: FirstPersonProjectile_C_215.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.38:899][144]PIE: Warning: FirstPersonProjectile_C_217.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.39:898][206]PIE: Warning: FirstPersonProjectile_C_219.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.40:899][268]PIE: Warning: FirstPersonProjectile_C_221.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.41:899][330]PIE: Warning: FirstPersonProjectile_C_224.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.42:899][392]PIE: Warning: FirstPersonProjectile_C_226.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.43:899][454]PIE: Warning: FirstPersonProjectile_C_228.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.44:899][516]PIE: Warning: FirstPersonProjectile_C_231.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.45:900][578]PIE: Warning: FirstPersonProjectile_C_235.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.46:900][640]PIE: Warning: FirstPersonProjectile_C_237.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.47:901][702]PIE: Warning: FirstPersonProjectile_C_240.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.48:899][764]PIE: Warning: FirstPersonProjectile_C_242.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.49:900][826]PIE: Warning: FirstPersonProjectile_C_244.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.50:900][888]PIE: Warning: FirstPersonProjectile_C_246.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.51:900][950]PIE: Warning: FirstPersonProjectile_C_251.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.53:400][ 43]PIE: Warning: FirstPersonProjectile_C_260.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.54:399][105]PIE: Warning: FirstPersonProjectile_C_266.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.55:900][198]PIE: Warning: FirstPersonProjectile_C_269.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.56:899][260]PIE: Warning: FirstPersonProjectile_C_270.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.57:901][322]PIE: Warning: FirstPersonProjectile_C_271.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.58:900][384]PIE: Warning: FirstPersonProjectile_C_272.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.42.59:900][446]PIE: Warning: FirstPersonProjectile_C_273.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.00:900][508]PIE: Warning: FirstPersonProjectile_C_274.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.01:905][570]PIE: Warning: FirstPersonProjectile_C_275.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.02:905][632]PIE: Warning: FirstPersonProjectile_C_276.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.03:905][694]PIE: Warning: FirstPersonProjectile_C_277.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.04:906][756]PIE: Warning: FirstPersonProjectile_C_278.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.06:408][849]PIE: Warning: FirstPersonProjectile_C_279.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.07:407][911]PIE: Warning: FirstPersonProjectile_C_280.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.08:406][973]PIE: Warning: FirstPersonProjectile_C_281.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.09:407][ 35]PIE: Warning: FirstPersonProjectile_C_282.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.10:407][ 97]PIE: Warning: FirstPersonProjectile_C_283.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.11:406][159]PIE: Warning: FirstPersonProjectile_C_284.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.12:407][221]PIE: Warning: FirstPersonProjectile_C_285.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.13:406][283]PIE: Warning: FirstPersonProjectile_C_286.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.14:407][345]PIE: Warning: FirstPersonProjectile_C_287.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.15:407][407]PIE: Warning: FirstPersonProjectile_C_288.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.16:407][469]PIE: Warning: FirstPersonProjectile_C_289.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.17:407][531]PIE: Warning: FirstPersonProjectile_C_290.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.18:907][624]PIE: Warning: FirstPersonProjectile_C_291.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.19:908][686]PIE: Warning: FirstPersonProjectile_C_292.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.20:907][748]PIE: Warning: FirstPersonProjectile_C_293.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.21:908][810]PIE: Warning: FirstPersonProjectile_C_294.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.22:907][872]PIE: Warning: FirstPersonProjectile_C_295.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.23:908][934]PIE: Warning: FirstPersonProjectile_C_296.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.24:908][996]PIE: Warning: FirstPersonProjectile_C_297.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.25:908][ 58]PIE: Warning: FirstPersonProjectile_C_298.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.26:907][120]PIE: Warning: FirstPersonProjectile_C_299.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.27:907][182]PIE: Warning: FirstPersonProjectile_C_300.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.28:907][244]PIE: Warning: FirstPersonProjectile_C_302.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.29:908][306]PIE: Warning: FirstPersonProjectile_C_305.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.30:909][368]PIE: Warning: FirstPersonProjectile_C_307.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.31:908][430]PIE: Warning: FirstPersonProjectile_C_309.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.32:908][492]PIE: Warning: FirstPersonProjectile_C_311.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.33:909][554]PIE: Warning: FirstPersonProjectile_C_313.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.35:409][647]PIE: Warning: FirstPersonProjectile_C_316.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.36:408][709]PIE: Warning: FirstPersonProjectile_C_317.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.37:408][771]PIE: Warning: FirstPersonProjectile_C_318.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.38:409][833]PIE: Warning: FirstPersonProjectile_C_319.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.39:409][895]PIE: Warning: FirstPersonProjectile_C_321.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.40:908][988]PIE: Warning: FirstPersonProjectile_C_324.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.41:908][ 50]PIE: Warning: FirstPersonProjectile_C_325.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.42:909][112]PIE: Warning: FirstPersonProjectile_C_326.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.43:909][174]PIE: Warning: FirstPersonProjectile_C_327.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.44:909][236]PIE: Warning: FirstPersonProjectile_C_328.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.45:911][298]PIE: Warning: FirstPersonProjectile_C_329.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.46:911][360]PIE: Warning: FirstPersonProjectile_C_330.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.47:910][422]PIE: Warning: FirstPersonProjectile_C_331.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.48:910][484]PIE: Warning: FirstPersonProjectile_C_332.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.49:910][546]PIE: Warning: FirstPersonProjectile_C_333.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.50:909][608]PIE: Warning: FirstPersonProjectile_C_334.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.51:910][670]PIE: Warning: FirstPersonProjectile_C_335.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.52:909][732]PIE: Warning: FirstPersonProjectile_C_336.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.53:909][794]PIE: Warning: FirstPersonProjectile_C_337.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.54:910][856]PIE: Warning: FirstPersonProjectile_C_338.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.55:910][918]PIE: Warning: FirstPersonProjectile_C_339.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.56:910][980]PIE: Warning: FirstPersonProjectile_C_340.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.57:910][ 42]PIE: Warning: FirstPersonProjectile_C_341.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.58:910][104]PIE: Warning: FirstPersonProjectile_C_342.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.43.59:910][166]PIE: Warning: FirstPersonProjectile_C_343.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.00:910][228]PIE: Warning: FirstPersonProjectile_C_344.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.02:416][321]PIE: Warning: FirstPersonProjectile_C_345.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.03:416][383]PIE: Warning: FirstPersonProjectile_C_346.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.04:416][445]PIE: Warning: FirstPersonProjectile_C_347.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.05:415][507]PIE: Warning: FirstPersonProjectile_C_348.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.06:416][569]PIE: Warning: FirstPersonProjectile_C_349.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.07:416][631]PIE: Warning: FirstPersonProjectile_C_350.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.08:416][693]PIE: Warning: FirstPersonProjectile_C_351.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.09:417][755]PIE: Warning: FirstPersonProjectile_C_352.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.10:416][817]PIE: Warning: FirstPersonProjectile_C_353.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.11:417][879]PIE: Warning: FirstPersonProjectile_C_354.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.12:416][941]PIE: Warning: FirstPersonProjectile_C_355.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.13:417][  3]PIE: Warning: FirstPersonProjectile_C_356.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.14:417][ 65]PIE: Warning: FirstPersonProjectile_C_357.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.15:417][127]PIE: Warning: FirstPersonProjectile_C_358.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.16:417][189]PIE: Warning: FirstPersonProjectile_C_359.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.17:417][251]PIE: Warning: FirstPersonProjectile_C_360.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.18:417][313]PIE: Warning: FirstPersonProjectile_C_361.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.19:416][375]PIE: Warning: FirstPersonProjectile_C_362.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.20:417][437]PIE: Warning: FirstPersonProjectile_C_363.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.21:419][499]PIE: Warning: FirstPersonProjectile_C_364.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.22:418][561]PIE: Warning: FirstPersonProjectile_C_365.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.23:417][623]PIE: Warning: FirstPersonProjectile_C_366.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.24:417][685]PIE: Warning: FirstPersonProjectile_C_367.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.25:417][747]PIE: Warning: FirstPersonProjectile_C_368.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.26:417][809]PIE: Warning: FirstPersonProjectile_C_369.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.27:417][871]PIE: Warning: FirstPersonProjectile_C_370.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.28:417][933]PIE: Warning: FirstPersonProjectile_C_371.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.29:417][995]PIE: Warning: FirstPersonProjectile_C_372.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.30:417][ 57]PIE: Warning: FirstPersonProjectile_C_373.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.31:417][119]PIE: Warning: FirstPersonProjectile_C_374.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.32:417][181]PIE: Warning: FirstPersonProjectile_C_375.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.33:418][243]PIE: Warning: FirstPersonProjectile_C_376.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.34:418][305]PIE: Warning: FirstPersonProjectile_C_377.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.35:419][367]PIE: Warning: FirstPersonProjectile_C_378.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.36:418][429]PIE: Warning: FirstPersonProjectile_C_379.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.37:419][491]PIE: Warning: FirstPersonProjectile_C_380.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.38:419][553]PIE: Warning: FirstPersonProjectile_C_381.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.39:419][615]PIE: Warning: FirstPersonProjectile_C_382.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.40:418][677]PIE: Warning: FirstPersonProjectile_C_383.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.41:418][739]PIE: Warning: FirstPersonProjectile_C_384.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.42:419][801]PIE: Warning: FirstPersonProjectile_C_385.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.43:418][863]PIE: Warning: FirstPersonProjectile_C_386.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.44:419][925]PIE: Warning: FirstPersonProjectile_C_387.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.45:419][987]PIE: Warning: FirstPersonProjectile_C_388.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.46:919][ 80]PIE: Warning: FirstPersonProjectile_C_389.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.47:919][142]PIE: Warning: FirstPersonProjectile_C_390.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.48:919][204]PIE: Warning: FirstPersonProjectile_C_391.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.49:919][266]PIE: Warning: FirstPersonProjectile_C_392.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.51:420][359]PIE: Warning: FirstPersonProjectile_C_393.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.52:419][421]PIE: Warning: FirstPersonProjectile_C_394.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.53:420][483]PIE: Warning: FirstPersonProjectile_C_395.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.54:419][545]PIE: Warning: FirstPersonProjectile_C_396.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.55:419][607]PIE: Warning: FirstPersonProjectile_C_397.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.56:420][669]PIE: Warning: FirstPersonProjectile_C_398.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.57:420][731]PIE: Warning: FirstPersonProjectile_C_399.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.58:419][793]PIE: Warning: FirstPersonProjectile_C_400.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.44.59:420][855]PIE: Warning: FirstPersonProjectile_C_401.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.00:420][917]PIE: Warning: FirstPersonProjectile_C_402.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.01:419][979]PIE: Warning: FirstPersonProjectile_C_403.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.02:921][ 72]PIE: Warning: FirstPersonProjectile_C_404.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.03:926][134]PIE: Warning: FirstPersonProjectile_C_405.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.04:928][196]PIE: Warning: FirstPersonProjectile_C_406.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.05:928][258]PIE: Warning: FirstPersonProjectile_C_407.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.06:927][320]PIE: Warning: FirstPersonProjectile_C_408.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.07:928][382]PIE: Warning: FirstPersonProjectile_C_409.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.08:927][444]PIE: Warning: FirstPersonProjectile_C_410.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.09:927][506]PIE: Warning: FirstPersonProjectile_C_411.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.10:927][568]PIE: Warning: FirstPersonProjectile_C_412.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.11:927][630]PIE: Warning: FirstPersonProjectile_C_413.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.12:927][692]PIE: Warning: FirstPersonProjectile_C_414.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.13:927][754]PIE: Warning: FirstPersonProjectile_C_415.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.14:927][816]PIE: Warning: FirstPersonProjectile_C_416.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.15:928][878]PIE: Warning: FirstPersonProjectile_C_417.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.16:927][940]PIE: Warning: FirstPersonProjectile_C_418.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.17:928][  2]PIE: Warning: FirstPersonProjectile_C_419.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.18:927][ 64]PIE: Warning: FirstPersonProjectile_C_420.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.19:928][126]PIE: Warning: FirstPersonProjectile_C_421.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.20:928][188]PIE: Warning: FirstPersonProjectile_C_422.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.21:928][250]PIE: Warning: FirstPersonProjectile_C_423.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.22:928][312]PIE: Warning: FirstPersonProjectile_C_424.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.23:928][374]PIE: Warning: FirstPersonProjectile_C_425.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.24:928][436]PIE: Warning: FirstPersonProjectile_C_426.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.25:929][498]PIE: Warning: FirstPersonProjectile_C_427.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.26:928][560]PIE: Warning: FirstPersonProjectile_C_428.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.27:928][622]PIE: Warning: FirstPersonProjectile_C_429.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.28:929][684]PIE: Warning: FirstPersonProjectile_C_430.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.29:929][746]PIE: Warning: FirstPersonProjectile_C_431.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.30:928][808]PIE: Warning: FirstPersonProjectile_C_432.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.31:929][870]PIE: Warning: FirstPersonProjectile_C_433.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.32:928][932]PIE: Warning: FirstPersonProjectile_C_434.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.33:929][994]PIE: Warning: FirstPersonProjectile_C_435.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.34:929][ 56]PIE: Warning: FirstPersonProjectile_C_436.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.35:929][118]PIE: Warning: FirstPersonProjectile_C_437.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.36:928][180]PIE: Warning: FirstPersonProjectile_C_438.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.37:929][242]PIE: Warning: FirstPersonProjectile_C_439.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.38:929][304]PIE: Warning: FirstPersonProjectile_C_440.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.39:929][366]PIE: Warning: FirstPersonProjectile_C_441.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.40:930][428]PIE: Warning: FirstPersonProjectile_C_442.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.41:929][490]PIE: Warning: FirstPersonProjectile_C_443.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.42:930][552]PIE: Warning: FirstPersonProjectile_C_444.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.44:429][645]PIE: Warning: FirstPersonProjectile_C_445.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.45:430][707]PIE: Warning: FirstPersonProjectile_C_446.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.46:430][769]PIE: Warning: FirstPersonProjectile_C_447.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.47:430][831]PIE: Warning: FirstPersonProjectile_C_448.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.48:430][893]PIE: Warning: FirstPersonProjectile_C_449.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.49:430][955]PIE: Warning: FirstPersonProjectile_C_450.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.50:430][ 17]PIE: Warning: FirstPersonProjectile_C_451.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.51:430][ 79]PIE: Warning: FirstPersonProjectile_C_452.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.52:430][141]PIE: Warning: FirstPersonProjectile_C_453.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.53:430][203]PIE: Warning: FirstPersonProjectile_C_454.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.54:430][265]PIE: Warning: FirstPersonProjectile_C_455.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.55:431][327]PIE: Warning: FirstPersonProjectile_C_456.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.56:431][389]PIE: Warning: FirstPersonProjectile_C_457.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.57:430][451]PIE: Warning: FirstPersonProjectile_C_458.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.58:431][513]PIE: Warning: FirstPersonProjectile_C_459.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.45.59:431][575]PIE: Warning: FirstPersonProjectile_C_460.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.00:431][637]PIE: Warning: FirstPersonProjectile_C_461.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.01:431][699]PIE: Warning: FirstPersonProjectile_C_462.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.02:432][761]PIE: Warning: FirstPersonProjectile_C_463.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.03:431][823]PIE: Warning: FirstPersonProjectile_C_464.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.04:435][885]PIE: Warning: FirstPersonProjectile_C_465.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.05:434][947]PIE: Warning: FirstPersonProjectile_C_466.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.06:434][  9]PIE: Warning: FirstPersonProjectile_C_467.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.07:435][ 71]PIE: Warning: FirstPersonProjectile_C_468.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.08:435][133]PIE: Warning: FirstPersonProjectile_C_469.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.09:435][195]PIE: Warning: FirstPersonProjectile_C_470.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.10:434][257]PIE: Warning: FirstPersonProjectile_C_471.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.11:435][319]PIE: Warning: FirstPersonProjectile_C_472.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.12:435][381]PIE: Warning: FirstPersonProjectile_C_473.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.13:435][443]PIE: Warning: FirstPersonProjectile_C_474.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.14:435][505]PIE: Warning: FirstPersonProjectile_C_475.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.15:435][567]PIE: Warning: FirstPersonProjectile_C_476.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.16:435][629]PIE: Warning: FirstPersonProjectile_C_477.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.17:435][691]PIE: Warning: FirstPersonProjectile_C_478.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.18:435][753]PIE: Warning: FirstPersonProjectile_C_479.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.19:436][815]PIE: Warning: FirstPersonProjectile_C_480.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.20:435][877]PIE: Warning: FirstPersonProjectile_C_481.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.21:436][939]PIE: Warning: FirstPersonProjectile_C_482.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.22:436][  1]PIE: Warning: FirstPersonProjectile_C_483.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.23:435][ 63]PIE: Warning: FirstPersonProjectile_C_484.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.24:436][125]PIE: Warning: FirstPersonProjectile_C_485.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.25:436][187]PIE: Warning: FirstPersonProjectile_C_486.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.26:436][249]PIE: Warning: FirstPersonProjectile_C_487.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.27:436][311]PIE: Warning: FirstPersonProjectile_C_488.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.28:436][373]PIE: Warning: FirstPersonProjectile_C_489.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.29:436][435]PIE: Warning: FirstPersonProjectile_C_490.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.30:436][497]PIE: Warning: FirstPersonProjectile_C_491.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.31:436][559]PIE: Warning: FirstPersonProjectile_C_492.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.32:436][621]PIE: Warning: FirstPersonProjectile_C_493.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.34:936][776]PIE: Warning: FirstPersonProjectile_C_494.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.35:936][838]PIE: Warning: FirstPersonProjectile_C_495.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.36:936][900]PIE: Warning: FirstPersonProjectile_C_496.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.37:936][962]PIE: Warning: FirstPersonProjectile_C_497.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.38:936][ 24]PIE: Warning: FirstPersonProjectile_C_498.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.39:937][ 86]PIE: Warning: FirstPersonProjectile_C_499.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.40:937][148]PIE: Warning: FirstPersonProjectile_C_500.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.41:937][210]PIE: Warning: FirstPersonProjectile_C_501.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.42:937][272]PIE: Warning: FirstPersonProjectile_C_502.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.43:937][334]PIE: Warning: FirstPersonProjectile_C_503.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.44:937][396]PIE: Warning: FirstPersonProjectile_C_504.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.45:937][458]PIE: Warning: FirstPersonProjectile_C_505.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.46:937][520]PIE: Warning: FirstPersonProjectile_C_506.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.47:937][582]PIE: Warning: FirstPersonProjectile_C_507.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.48:937][644]PIE: Warning: FirstPersonProjectile_C_508.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.49:937][706]PIE: Warning: FirstPersonProjectile_C_509.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.50:937][768]PIE: Warning: FirstPersonProjectile_C_510.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.51:937][830]PIE: Warning: FirstPersonProjectile_C_511.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.52:938][892]PIE: Warning: FirstPersonProjectile_C_512.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.53:937][954]PIE: Warning: FirstPersonProjectile_C_513.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.54:937][ 16]PIE: Warning: FirstPersonProjectile_C_514.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.55:938][ 78]PIE: Warning: FirstPersonProjectile_C_515.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.56:937][140]PIE: Warning: FirstPersonProjectile_C_516.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.57:937][202]PIE: Warning: FirstPersonProjectile_C_517.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.58:937][264]PIE: Warning: FirstPersonProjectile_C_518.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.46.59:938][326]PIE: Warning: FirstPersonProjectile_C_519.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.00:938][388]PIE: Warning: FirstPersonProjectile_C_520.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.01:938][450]PIE: Warning: FirstPersonProjectile_C_521.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.02:938][512]PIE: Warning: FirstPersonProjectile_C_522.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.03:938][574]PIE: Warning: FirstPersonProjectile_C_523.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.04:939][636]PIE: Warning: FirstPersonProjectile_C_524.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.05:945][698]PIE: Warning: FirstPersonProjectile_C_525.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.06:945][760]PIE: Warning: FirstPersonProjectile_C_526.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.07:944][822]PIE: Warning: FirstPersonProjectile_C_527.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.08:945][884]PIE: Warning: FirstPersonProjectile_C_528.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.09:944][946]PIE: Warning: FirstPersonProjectile_C_529.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.10:945][  8]PIE: Warning: FirstPersonProjectile_C_530.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.13:445][163]PIE: Warning: FirstPersonProjectile_C_531.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.14:445][225]PIE: Warning: FirstPersonProjectile_C_532.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.15:446][287]PIE: Warning: FirstPersonProjectile_C_533.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.16:946][380]PIE: Warning: FirstPersonProjectile_C_534.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.17:946][442]PIE: Warning: FirstPersonProjectile_C_535.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.18:946][504]PIE: Warning: FirstPersonProjectile_C_536.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.19:945][566]PIE: Warning: FirstPersonProjectile_C_537.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.20:946][628]PIE: Warning: FirstPersonProjectile_C_538.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.21:946][690]PIE: Warning: FirstPersonProjectile_C_539.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.22:945][752]PIE: Warning: FirstPersonProjectile_C_540.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.23:945][814]PIE: Warning: FirstPersonProjectile_C_541.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.24:945][876]PIE: Warning: FirstPersonProjectile_C_542.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.25:945][938]PIE: Warning: FirstPersonProjectile_C_543.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.26:946][  0]PIE: Warning: FirstPersonProjectile_C_544.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.27:945][ 62]PIE: Warning: FirstPersonProjectile_C_545.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.28:946][124]PIE: Warning: FirstPersonProjectile_C_546.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.29:946][186]PIE: Warning: FirstPersonProjectile_C_547.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.30:946][248]PIE: Warning: FirstPersonProjectile_C_548.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.31:946][310]PIE: Warning: FirstPersonProjectile_C_549.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.32:946][372]PIE: Warning: FirstPersonProjectile_C_550.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.33:946][434]PIE: Warning: FirstPersonProjectile_C_551.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.34:946][496]PIE: Warning: FirstPersonProjectile_C_552.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.35:946][558]PIE: Warning: FirstPersonProjectile_C_553.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.36:946][620]PIE: Warning: FirstPersonProjectile_C_554.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.37:947][682]PIE: Warning: FirstPersonProjectile_C_555.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.38:947][744]PIE: Warning: FirstPersonProjectile_C_556.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.39:947][806]PIE: Warning: FirstPersonProjectile_C_557.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.40:946][868]PIE: Warning: FirstPersonProjectile_C_558.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.41:947][930]PIE: Warning: FirstPersonProjectile_C_559.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.42:947][992]PIE: Warning: FirstPersonProjectile_C_560.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.43:947][ 54]PIE: Warning: FirstPersonProjectile_C_561.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.45:947][178]PIE: Warning: FirstPersonProjectile_C_562.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.46:947][240]PIE: Warning: FirstPersonProjectile_C_563.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.47:947][302]PIE: Warning: FirstPersonProjectile_C_564.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.48:948][364]PIE: Warning: FirstPersonProjectile_C_565.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.49:948][426]PIE: Warning: FirstPersonProjectile_C_566.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.50:948][488]PIE: Warning: FirstPersonProjectile_C_567.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.51:948][550]PIE: Warning: FirstPersonProjectile_C_568.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.52:948][612]PIE: Warning: FirstPersonProjectile_C_569.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.53:948][674]PIE: Warning: FirstPersonProjectile_C_570.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.54:948][736]PIE: Warning: FirstPersonProjectile_C_571.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.55:948][798]PIE: Warning: FirstPersonProjectile_C_572.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.56:948][860]PIE: Warning: FirstPersonProjectile_C_573.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.57:948][922]PIE: Warning: FirstPersonProjectile_C_574.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.58:948][984]PIE: Warning: FirstPersonProjectile_C_575.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.47.59:948][ 46]PIE: Warning: FirstPersonProjectile_C_576.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.00:948][108]PIE: Warning: FirstPersonProjectile_C_577.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.01:948][170]PIE: Warning: FirstPersonProjectile_C_578.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.02:948][232]PIE: Warning: FirstPersonProjectile_C_579.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.03:949][294]PIE: Warning: FirstPersonProjectile_C_580.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.04:948][356]PIE: Warning: FirstPersonProjectile_C_581.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.05:948][418]PIE: Warning: FirstPersonProjectile_C_582.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.06:954][480]PIE: Warning: FirstPersonProjectile_C_583.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.07:954][542]PIE: Warning: FirstPersonProjectile_C_584.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.08:954][604]PIE: Warning: FirstPersonProjectile_C_585.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.09:955][666]PIE: Warning: FirstPersonProjectile_C_586.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.10:955][728]PIE: Warning: FirstPersonProjectile_C_587.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.11:955][790]PIE: Warning: FirstPersonProjectile_C_588.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.12:955][852]PIE: Warning: FirstPersonProjectile_C_589.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.13:955][914]PIE: Warning: FirstPersonProjectile_C_590.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.14:955][976]PIE: Warning: FirstPersonProjectile_C_591.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.15:955][ 38]PIE: Warning: FirstPersonProjectile_C_592.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.16:957][100]PIE: Warning: FirstPersonProjectile_C_593.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.17:956][162]PIE: Warning: FirstPersonProjectile_C_594.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.18:955][224]PIE: Warning: FirstPersonProjectile_C_595.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.19:956][286]PIE: Warning: FirstPersonProjectile_C_596.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.20:955][348]PIE: Warning: FirstPersonProjectile_C_597.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.21:956][410]PIE: Warning: FirstPersonProjectile_C_598.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.22:956][472]PIE: Warning: FirstPersonProjectile_C_599.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.23:956][534]PIE: Warning: FirstPersonProjectile_C_600.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.24:956][596]PIE: Warning: FirstPersonProjectile_C_601.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.25:956][658]PIE: Warning: FirstPersonProjectile_C_602.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.26:956][720]PIE: Warning: FirstPersonProjectile_C_603.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.27:956][782]PIE: Warning: FirstPersonProjectile_C_604.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.28:956][844]PIE: Warning: FirstPersonProjectile_C_605.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.29:957][906]PIE: Warning: FirstPersonProjectile_C_606.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.30:957][968]PIE: Warning: FirstPersonProjectile_C_607.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.31:957][ 30]PIE: Warning: FirstPersonProjectile_C_608.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.32:956][ 92]PIE: Warning: FirstPersonProjectile_C_609.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.33:957][154]PIE: Warning: FirstPersonProjectile_C_610.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.34:957][216]PIE: Warning: FirstPersonProjectile_C_611.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.35:957][278]PIE: Warning: FirstPersonProjectile_C_612.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.36:957][340]PIE: Warning: FirstPersonProjectile_C_613.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.37:957][402]PIE: Warning: FirstPersonProjectile_C_614.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.38:958][464]PIE: Warning: FirstPersonProjectile_C_615.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.39:957][526]PIE: Warning: FirstPersonProjectile_C_616.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.40:958][588]PIE: Warning: FirstPersonProjectile_C_617.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.41:958][650]PIE: Warning: FirstPersonProjectile_C_618.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.42:958][712]PIE: Warning: FirstPersonProjectile_C_619.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.43:958][774]PIE: Warning: FirstPersonProjectile_C_620.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.44:959][836]PIE: Warning: FirstPersonProjectile_C_621.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.45:958][898]PIE: Warning: FirstPersonProjectile_C_622.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.46:958][960]PIE: Warning: FirstPersonProjectile_C_623.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.47:958][ 22]PIE: Warning: FirstPersonProjectile_C_624.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.48:958][ 84]PIE: Warning: FirstPersonProjectile_C_625.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.49:958][146]PIE: Warning: FirstPersonProjectile_C_626.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.50:958][208]PIE: Warning: FirstPersonProjectile_C_627.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.51:958][270]PIE: Warning: FirstPersonProjectile_C_628.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.52:958][332]PIE: Warning: FirstPersonProjectile_C_629.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.54:458][425]PIE: Warning: FirstPersonProjectile_C_630.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.55:458][487]PIE: Warning: FirstPersonProjectile_C_631.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.56:458][549]PIE: Warning: FirstPersonProjectile_C_632.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.57:459][611]PIE: Warning: FirstPersonProjectile_C_633.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.58:459][673]PIE: Warning: FirstPersonProjectile_C_634.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.48.59:459][735]PIE: Warning: FirstPersonProjectile_C_635.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.00:459][797]PIE: Warning: FirstPersonProjectile_C_636.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.01:458][859]PIE: Warning: FirstPersonProjectile_C_637.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.02:459][921]PIE: Warning: FirstPersonProjectile_C_638.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.03:459][983]PIE: Warning: FirstPersonProjectile_C_639.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.04:459][ 45]PIE: Warning: FirstPersonProjectile_C_640.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.05:459][107]PIE: Warning: FirstPersonProjectile_C_641.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.06:459][169]PIE: Warning: FirstPersonProjectile_C_642.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.07:459][231]PIE: Warning: FirstPersonProjectile_C_643.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.08:465][293]PIE: Warning: FirstPersonProjectile_C_644.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.09:465][355]PIE: Warning: FirstPersonProjectile_C_645.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.10:465][417]PIE: Warning: FirstPersonProjectile_C_646.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.11:465][479]PIE: Warning: FirstPersonProjectile_C_647.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.12:465][541]PIE: Warning: FirstPersonProjectile_C_648.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.13:465][603]PIE: Warning: FirstPersonProjectile_C_649.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.14:467][665]PIE: Warning: FirstPersonProjectile_C_650.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.15:466][727]PIE: Warning: FirstPersonProjectile_C_651.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.16:466][789]PIE: Warning: FirstPersonProjectile_C_652.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.17:466][851]PIE: Warning: FirstPersonProjectile_C_653.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.18:466][913]PIE: Warning: FirstPersonProjectile_C_654.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.19:466][975]PIE: Warning: FirstPersonProjectile_C_655.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.20:467][ 37]PIE: Warning: FirstPersonProjectile_C_656.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.21:466][ 99]PIE: Warning: FirstPersonProjectile_C_657.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.22:467][161]PIE: Warning: FirstPersonProjectile_C_658.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.23:466][223]PIE: Warning: FirstPersonProjectile_C_659.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.24:465][285]PIE: Warning: FirstPersonProjectile_C_660.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.25:966][378]PIE: Warning: FirstPersonProjectile_C_661.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.26:967][440]PIE: Warning: FirstPersonProjectile_C_662.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.27:966][502]PIE: Warning: FirstPersonProjectile_C_663.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.28:967][564]PIE: Warning: FirstPersonProjectile_C_664.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.29:967][626]PIE: Warning: FirstPersonProjectile_C_665.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.30:968][688]PIE: Warning: FirstPersonProjectile_C_666.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.31:967][750]PIE: Warning: FirstPersonProjectile_C_667.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.33:468][843]PIE: Warning: FirstPersonProjectile_C_668.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.34:467][905]PIE: Warning: FirstPersonProjectile_C_669.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.35:468][967]PIE: Warning: FirstPersonProjectile_C_670.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.36:468][ 29]PIE: Warning: FirstPersonProjectile_C_671.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.37:468][ 91]PIE: Warning: FirstPersonProjectile_C_672.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.38:467][153]PIE: Warning: FirstPersonProjectile_C_673.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.39:468][215]PIE: Warning: FirstPersonProjectile_C_674.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.40:467][277]PIE: Warning: FirstPersonProjectile_C_675.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.41:468][339]PIE: Warning: FirstPersonProjectile_C_676.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.42:468][401]PIE: Warning: FirstPersonProjectile_C_677.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.43:469][463]PIE: Warning: FirstPersonProjectile_C_678.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.44:469][525]PIE: Warning: FirstPersonProjectile_C_679.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.45:469][587]PIE: Warning: FirstPersonProjectile_C_680.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.46:469][649]PIE: Warning: FirstPersonProjectile_C_681.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.47:469][711]PIE: Warning: FirstPersonProjectile_C_682.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.48:469][773]PIE: Warning: FirstPersonProjectile_C_683.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.49:468][835]PIE: Warning: FirstPersonProjectile_C_684.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.50:469][897]PIE: Warning: FirstPersonProjectile_C_685.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.51:468][959]PIE: Warning: FirstPersonProjectile_C_686.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.52:469][ 21]PIE: Warning: FirstPersonProjectile_C_687.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.53:469][ 83]PIE: Warning: FirstPersonProjectile_C_688.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.54:469][145]PIE: Warning: FirstPersonProjectile_C_689.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.55:469][207]PIE: Warning: FirstPersonProjectile_C_690.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.56:469][269]PIE: Warning: FirstPersonProjectile_C_691.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.57:469][331]PIE: Warning: FirstPersonProjectile_C_692.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.58:469][393]PIE: Warning: FirstPersonProjectile_C_693.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.49.59:469][455]PIE: Warning: FirstPersonProjectile_C_694.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.00:469][517]PIE: Warning: FirstPersonProjectile_C_695.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.01:470][579]PIE: Warning: FirstPersonProjectile_C_696.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.02:469][641]PIE: Warning: FirstPersonProjectile_C_697.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.03:469][703]PIE: Warning: FirstPersonProjectile_C_698.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.04:469][765]PIE: Warning: FirstPersonProjectile_C_699.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.05:470][827]PIE: Warning: FirstPersonProjectile_C_700.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.06:470][889]PIE: Warning: FirstPersonProjectile_C_701.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.07:470][951]PIE: Warning: FirstPersonProjectile_C_702.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.08:470][ 13]PIE: Warning: FirstPersonProjectile_C_703.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.09:474][ 75]PIE: Warning: FirstPersonProjectile_C_704.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.10:474][137]PIE: Warning: FirstPersonProjectile_C_705.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.11:474][199]PIE: Warning: FirstPersonProjectile_C_706.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.12:474][261]PIE: Warning: FirstPersonProjectile_C_707.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.13:474][323]PIE: Warning: FirstPersonProjectile_C_708.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.14:475][385]PIE: Warning: FirstPersonProjectile_C_709.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.15:475][447]PIE: Warning: FirstPersonProjectile_C_710.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.16:475][509]PIE: Warning: FirstPersonProjectile_C_711.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.17:475][571]PIE: Warning: FirstPersonProjectile_C_712.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.18:474][633]PIE: Warning: FirstPersonProjectile_C_713.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.19:475][695]PIE: Warning: FirstPersonProjectile_C_714.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.20:475][757]PIE: Warning: FirstPersonProjectile_C_715.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.21:475][819]PIE: Warning: FirstPersonProjectile_C_716.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.22:475][881]PIE: Warning: FirstPersonProjectile_C_717.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.23:475][943]PIE: Warning: FirstPersonProjectile_C_718.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.24:475][  5]PIE: Warning: FirstPersonProjectile_C_719.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.25:475][ 67]PIE: Warning: FirstPersonProjectile_C_720.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.26:475][129]PIE: Warning: FirstPersonProjectile_C_721.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.27:475][191]PIE: Warning: FirstPersonProjectile_C_722.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.28:475][253]PIE: Warning: FirstPersonProjectile_C_723.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.29:475][315]PIE: Warning: FirstPersonProjectile_C_724.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.30:475][377]PIE: Warning: FirstPersonProjectile_C_725.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.31:478][439]PIE: Warning: FirstPersonProjectile_C_726.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.32:476][501]PIE: Warning: FirstPersonProjectile_C_727.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.33:475][563]PIE: Warning: FirstPersonProjectile_C_728.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.34:475][625]PIE: Warning: FirstPersonProjectile_C_729.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.35:476][687]PIE: Warning: FirstPersonProjectile_C_730.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.36:976][780]PIE: Warning: FirstPersonProjectile_C_731.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.37:976][842]PIE: Warning: FirstPersonProjectile_C_732.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.38:976][904]PIE: Warning: FirstPersonProjectile_C_733.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.39:976][966]PIE: Warning: FirstPersonProjectile_C_734.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.40:976][ 28]PIE: Warning: FirstPersonProjectile_C_735.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.41:976][ 90]PIE: Warning: FirstPersonProjectile_C_736.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.42:976][152]PIE: Warning: FirstPersonProjectile_C_737.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.43:977][214]PIE: Warning: FirstPersonProjectile_C_738.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.44:977][276]PIE: Warning: FirstPersonProjectile_C_739.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.45:977][338]PIE: Warning: FirstPersonProjectile_C_740.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.46:978][400]PIE: Warning: FirstPersonProjectile_C_741.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.47:978][462]PIE: Warning: FirstPersonProjectile_C_742.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.48:977][524]PIE: Warning: FirstPersonProjectile_C_743.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.49:977][586]PIE: Warning: FirstPersonProjectile_C_744.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.50:977][648]PIE: Warning: FirstPersonProjectile_C_745.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.51:977][710]PIE: Warning: FirstPersonProjectile_C_746.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.52:977][772]PIE: Warning: FirstPersonProjectile_C_747.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.53:977][834]PIE: Warning: FirstPersonProjectile_C_748.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.54:978][896]PIE: Warning: FirstPersonProjectile_C_749.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.55:977][958]PIE: Warning: FirstPersonProjectile_C_750.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.56:978][ 20]PIE: Warning: FirstPersonProjectile_C_751.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.57:978][ 82]PIE: Warning: FirstPersonProjectile_C_752.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.58:978][144]PIE: Warning: FirstPersonProjectile_C_753.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.50.59:978][206]PIE: Warning: FirstPersonProjectile_C_754.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.00:978][268]PIE: Warning: FirstPersonProjectile_C_755.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.01:978][330]PIE: Warning: FirstPersonProjectile_C_756.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.03:478][423]PIE: Warning: FirstPersonProjectile_C_757.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.04:477][485]PIE: Warning: FirstPersonProjectile_C_758.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.05:478][547]PIE: Warning: FirstPersonProjectile_C_759.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.06:478][609]PIE: Warning: FirstPersonProjectile_C_760.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.07:478][671]PIE: Warning: FirstPersonProjectile_C_761.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.08:478][733]PIE: Warning: FirstPersonProjectile_C_762.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.09:479][795]PIE: Warning: FirstPersonProjectile_C_763.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.10:484][857]PIE: Warning: FirstPersonProjectile_C_764.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.11:484][919]PIE: Warning: FirstPersonProjectile_C_765.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.12:484][981]PIE: Warning: FirstPersonProjectile_C_766.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.13:484][ 43]PIE: Warning: FirstPersonProjectile_C_767.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.14:485][105]PIE: Warning: FirstPersonProjectile_C_768.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.15:484][167]PIE: Warning: FirstPersonProjectile_C_769.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.16:484][229]PIE: Warning: FirstPersonProjectile_C_770.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.17:485][291]PIE: Warning: FirstPersonProjectile_C_771.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.18:484][353]PIE: Warning: FirstPersonProjectile_C_772.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.19:484][415]PIE: Warning: FirstPersonProjectile_C_773.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.20:484][477]PIE: Warning: FirstPersonProjectile_C_774.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.21:485][539]PIE: Warning: FirstPersonProjectile_C_775.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.22:485][601]PIE: Warning: FirstPersonProjectile_C_776.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.23:486][663]PIE: Warning: FirstPersonProjectile_C_777.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.24:485][725]PIE: Warning: FirstPersonProjectile_C_778.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.25:486][787]PIE: Warning: FirstPersonProjectile_C_779.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.26:485][849]PIE: Warning: FirstPersonProjectile_C_780.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.27:985][942]PIE: Warning: FirstPersonProjectile_C_781.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.28:984][  4]PIE: Warning: FirstPersonProjectile_C_782.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.29:985][ 66]PIE: Warning: FirstPersonProjectile_C_783.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.30:985][128]PIE: Warning: FirstPersonProjectile_C_784.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.31:985][190]PIE: Warning: FirstPersonProjectile_C_785.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.32:985][252]PIE: Warning: FirstPersonProjectile_C_786.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.33:985][314]PIE: Warning: FirstPersonProjectile_C_787.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.34:985][376]PIE: Warning: FirstPersonProjectile_C_788.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.35:985][438]PIE: Warning: FirstPersonProjectile_C_789.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.36:985][500]PIE: Warning: FirstPersonProjectile_C_790.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.37:986][562]PIE: Warning: FirstPersonProjectile_C_791.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.38:985][624]PIE: Warning: FirstPersonProjectile_C_792.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.39:986][686]PIE: Warning: FirstPersonProjectile_C_793.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.40:986][748]PIE: Warning: FirstPersonProjectile_C_794.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.41:985][810]PIE: Warning: FirstPersonProjectile_C_795.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.42:985][872]PIE: Warning: FirstPersonProjectile_C_796.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.43:986][934]PIE: Warning: FirstPersonProjectile_C_797.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.44:986][996]PIE: Warning: FirstPersonProjectile_C_798.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.45:986][ 58]PIE: Warning: FirstPersonProjectile_C_799.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.46:987][120]PIE: Warning: FirstPersonProjectile_C_800.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.47:986][182]PIE: Warning: FirstPersonProjectile_C_801.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.48:986][244]PIE: Warning: FirstPersonProjectile_C_802.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.49:986][306]PIE: Warning: FirstPersonProjectile_C_803.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.50:986][368]PIE: Warning: FirstPersonProjectile_C_804.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.51:986][430]PIE: Warning: FirstPersonProjectile_C_805.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.52:987][492]PIE: Warning: FirstPersonProjectile_C_806.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.53:987][554]PIE: Warning: FirstPersonProjectile_C_807.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.54:987][616]PIE: Warning: FirstPersonProjectile_C_808.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.55:986][678]PIE: Warning: FirstPersonProjectile_C_809.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.56:987][740]PIE: Warning: FirstPersonProjectile_C_810.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.57:987][802]PIE: Warning: FirstPersonProjectile_C_811.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.58:987][864]PIE: Warning: FirstPersonProjectile_C_812.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.51.59:987][926]PIE: Warning: FirstPersonProjectile_C_813.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.00:987][988]PIE: Warning: FirstPersonProjectile_C_814.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.01:987][ 50]PIE: Warning: FirstPersonProjectile_C_815.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.02:988][112]PIE: Warning: FirstPersonProjectile_C_816.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.03:988][174]PIE: Warning: FirstPersonProjectile_C_817.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.04:988][236]PIE: Warning: FirstPersonProjectile_C_818.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.05:987][298]PIE: Warning: FirstPersonProjectile_C_819.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.06:988][360]PIE: Warning: FirstPersonProjectile_C_820.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.07:987][422]PIE: Warning: FirstPersonProjectile_C_821.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.08:987][484]PIE: Warning: FirstPersonProjectile_C_822.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.09:988][546]PIE: Warning: FirstPersonProjectile_C_823.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.10:992][608]PIE: Warning: FirstPersonProjectile_C_824.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.11:992][670]PIE: Warning: FirstPersonProjectile_C_825.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.12:992][732]PIE: Warning: FirstPersonProjectile_C_826.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.13:992][794]PIE: Warning: FirstPersonProjectile_C_827.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.14:992][856]PIE: Warning: FirstPersonProjectile_C_828.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.15:992][918]PIE: Warning: FirstPersonProjectile_C_829.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.16:993][980]PIE: Warning: FirstPersonProjectile_C_830.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.17:993][ 42]PIE: Warning: FirstPersonProjectile_C_831.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.18:993][104]PIE: Warning: FirstPersonProjectile_C_832.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.19:993][166]PIE: Warning: FirstPersonProjectile_C_833.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.20:993][228]PIE: Warning: FirstPersonProjectile_C_834.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.21:993][290]PIE: Warning: FirstPersonProjectile_C_835.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.22:993][352]PIE: Warning: FirstPersonProjectile_C_836.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.23:993][414]PIE: Warning: FirstPersonProjectile_C_837.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.24:994][476]PIE: Warning: FirstPersonProjectile_C_838.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.25:993][538]PIE: Warning: FirstPersonProjectile_C_839.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.26:993][600]PIE: Warning: FirstPersonProjectile_C_840.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.28:494][693]PIE: Warning: FirstPersonProjectile_C_841.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.29:494][755]PIE: Warning: FirstPersonProjectile_C_842.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.30:493][817]PIE: Warning: FirstPersonProjectile_C_843.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.31:493][879]PIE: Warning: FirstPersonProjectile_C_844.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.32:494][941]PIE: Warning: FirstPersonProjectile_C_845.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.33:495][  3]PIE: Warning: FirstPersonProjectile_C_846.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.34:494][ 65]PIE: Warning: FirstPersonProjectile_C_847.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.35:493][127]PIE: Warning: FirstPersonProjectile_C_848.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.36:494][189]PIE: Warning: FirstPersonProjectile_C_849.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.37:494][251]PIE: Warning: FirstPersonProjectile_C_850.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.38:994][344]PIE: Warning: FirstPersonProjectile_C_851.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.39:994][406]PIE: Warning: FirstPersonProjectile_C_852.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.40:995][468]PIE: Warning: FirstPersonProjectile_C_853.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.41:995][530]PIE: Warning: FirstPersonProjectile_C_854.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.42:995][592]PIE: Warning: FirstPersonProjectile_C_855.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.43:994][654]PIE: Warning: FirstPersonProjectile_C_856.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.44:995][716]PIE: Warning: FirstPersonProjectile_C_857.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.45:995][778]PIE: Warning: FirstPersonProjectile_C_858.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.46:994][840]PIE: Warning: FirstPersonProjectile_C_859.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.47:995][902]PIE: Warning: FirstPersonProjectile_C_860.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.48:995][964]PIE: Warning: FirstPersonProjectile_C_861.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.49:995][ 26]PIE: Warning: FirstPersonProjectile_C_862.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.50:995][ 88]PIE: Warning: FirstPersonProjectile_C_863.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.51:995][150]PIE: Warning: FirstPersonProjectile_C_864.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.52:995][212]PIE: Warning: FirstPersonProjectile_C_865.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.53:996][274]PIE: Warning: FirstPersonProjectile_C_866.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.54:996][336]PIE: Warning: FirstPersonProjectile_C_867.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.55:996][398]PIE: Warning: FirstPersonProjectile_C_868.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.56:996][460]PIE: Warning: FirstPersonProjectile_C_869.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.57:996][522]PIE: Warning: FirstPersonProjectile_C_870.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.58:996][584]PIE: Warning: FirstPersonProjectile_C_871.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.52.59:995][646]PIE: Warning: FirstPersonProjectile_C_872.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.00:995][708]PIE: Warning: FirstPersonProjectile_C_873.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.01:996][770]PIE: Warning: FirstPersonProjectile_C_874.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.02:996][832]PIE: Warning: FirstPersonProjectile_C_875.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.03:996][894]PIE: Warning: FirstPersonProjectile_C_876.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.04:996][956]PIE: Warning: FirstPersonProjectile_C_877.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.05:996][ 18]PIE: Warning: FirstPersonProjectile_C_878.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.06:996][ 80]PIE: Warning: FirstPersonProjectile_C_879.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.08:496][173]PIE: Warning: FirstPersonProjectile_C_880.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.09:496][235]PIE: Warning: FirstPersonProjectile_C_881.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.10:497][297]PIE: Warning: FirstPersonProjectile_C_882.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.11:496][359]PIE: Warning: FirstPersonProjectile_C_883.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.12:502][421]PIE: Warning: FirstPersonProjectile_C_884.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.13:502][483]PIE: Warning: FirstPersonProjectile_C_885.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.14:502][545]PIE: Warning: FirstPersonProjectile_C_886.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.16:001][638]PIE: Warning: FirstPersonProjectile_C_887.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.17:002][700]PIE: Warning: FirstPersonProjectile_C_888.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.18:002][762]PIE: Warning: FirstPersonProjectile_C_889.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.19:002][824]PIE: Warning: FirstPersonProjectile_C_890.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.20:002][886]PIE: Warning: FirstPersonProjectile_C_891.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.21:002][948]PIE: Warning: FirstPersonProjectile_C_892.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.22:003][ 10]PIE: Warning: FirstPersonProjectile_C_893.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.23:003][ 72]PIE: Warning: FirstPersonProjectile_C_894.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.24:002][134]PIE: Warning: FirstPersonProjectile_C_895.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.25:002][196]PIE: Warning: FirstPersonProjectile_C_896.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.26:003][258]PIE: Warning: FirstPersonProjectile_C_897.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.27:003][320]PIE: Warning: FirstPersonProjectile_C_898.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.28:003][382]PIE: Warning: FirstPersonProjectile_C_899.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.29:003][444]PIE: Warning: FirstPersonProjectile_C_900.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.30:003][506]PIE: Warning: FirstPersonProjectile_C_901.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.31:003][568]PIE: Warning: FirstPersonProjectile_C_902.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.32:004][630]PIE: Warning: FirstPersonProjectile_C_903.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.33:004][692]PIE: Warning: FirstPersonProjectile_C_904.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.34:004][754]PIE: Warning: FirstPersonProjectile_C_905.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.35:003][816]PIE: Warning: FirstPersonProjectile_C_906.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.36:003][878]PIE: Warning: FirstPersonProjectile_C_907.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.37:004][940]PIE: Warning: FirstPersonProjectile_C_908.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.38:003][  2]PIE: Warning: FirstPersonProjectile_C_909.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.39:003][ 64]PIE: Warning: FirstPersonProjectile_C_910.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.40:004][126]PIE: Warning: FirstPersonProjectile_C_911.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.41:003][188]PIE: Warning: FirstPersonProjectile_C_912.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.42:004][250]PIE: Warning: FirstPersonProjectile_C_913.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.43:003][312]PIE: Warning: FirstPersonProjectile_C_914.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.44:004][374]PIE: Warning: FirstPersonProjectile_C_915.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.45:004][436]PIE: Warning: FirstPersonProjectile_C_916.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.46:004][498]PIE: Warning: FirstPersonProjectile_C_917.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.47:005][560]PIE: Warning: FirstPersonProjectile_C_918.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.48:004][622]PIE: Warning: FirstPersonProjectile_C_919.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.49:504][715]PIE: Warning: FirstPersonProjectile_C_920.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.50:505][777]PIE: Warning: FirstPersonProjectile_C_921.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.51:505][839]PIE: Warning: FirstPersonProjectile_C_922.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.52:505][901]PIE: Warning: FirstPersonProjectile_C_923.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.53:504][963]PIE: Warning: FirstPersonProjectile_C_924.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.54:505][ 25]PIE: Warning: FirstPersonProjectile_C_925.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.55:505][ 87]PIE: Warning: FirstPersonProjectile_C_926.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.56:504][149]PIE: Warning: FirstPersonProjectile_C_927.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.57:505][211]PIE: Warning: FirstPersonProjectile_C_928.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.58:505][273]PIE: Warning: FirstPersonProjectile_C_929.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.53.59:505][335]PIE: Warning: FirstPersonProjectile_C_930.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.00:506][397]PIE: Warning: FirstPersonProjectile_C_931.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.01:506][459]PIE: Warning: FirstPersonProjectile_C_932.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.02:506][521]PIE: Warning: FirstPersonProjectile_C_933.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.03:506][583]PIE: Warning: FirstPersonProjectile_C_934.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.04:506][645]PIE: Warning: FirstPersonProjectile_C_935.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.05:506][707]PIE: Warning: FirstPersonProjectile_C_936.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.06:506][769]PIE: Warning: FirstPersonProjectile_C_937.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.07:506][831]PIE: Warning: FirstPersonProjectile_C_938.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.08:506][893]PIE: Warning: FirstPersonProjectile_C_939.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.09:506][955]PIE: Warning: FirstPersonProjectile_C_940.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.10:507][ 17]PIE: Warning: FirstPersonProjectile_C_941.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.11:506][ 79]PIE: Warning: FirstPersonProjectile_C_942.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.12:506][141]PIE: Warning: FirstPersonProjectile_C_943.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.13:513][203]PIE: Warning: FirstPersonProjectile_C_944.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.14:512][265]PIE: Warning: FirstPersonProjectile_C_945.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.16:512][389]PIE: Warning: FirstPersonProjectile_C_946.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.17:513][451]PIE: Warning: FirstPersonProjectile_C_947.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.18:513][513]PIE: Warning: FirstPersonProjectile_C_948.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.19:513][575]PIE: Warning: FirstPersonProjectile_C_949.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.20:513][637]PIE: Warning: FirstPersonProjectile_C_950.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.22:014][730]PIE: Warning: FirstPersonProjectile_C_951.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.23:013][792]PIE: Warning: FirstPersonProjectile_C_952.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.24:013][854]PIE: Warning: FirstPersonProjectile_C_953.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.25:013][916]PIE: Warning: FirstPersonProjectile_C_954.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.26:013][978]PIE: Warning: FirstPersonProjectile_C_955.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.27:013][ 40]PIE: Warning: FirstPersonProjectile_C_956.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.28:513][133]PIE: Warning: FirstPersonProjectile_C_957.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.29:513][195]PIE: Warning: FirstPersonProjectile_C_958.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.30:514][257]PIE: Warning: FirstPersonProjectile_C_959.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.31:514][319]PIE: Warning: FirstPersonProjectile_C_960.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.32:514][381]PIE: Warning: FirstPersonProjectile_C_961.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.34:014][474]PIE: Warning: FirstPersonProjectile_C_962.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.35:014][536]PIE: Warning: FirstPersonProjectile_C_963.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.36:014][598]PIE: Warning: FirstPersonProjectile_C_964.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.37:014][660]PIE: Warning: FirstPersonProjectile_C_965.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.38:014][722]PIE: Warning: FirstPersonProjectile_C_966.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.39:014][784]PIE: Warning: FirstPersonProjectile_C_967.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.40:014][846]PIE: Warning: FirstPersonProjectile_C_968.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.41:514][939]PIE: Warning: FirstPersonProjectile_C_969.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.42:514][  1]PIE: Warning: FirstPersonProjectile_C_970.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.43:515][ 63]PIE: Warning: FirstPersonProjectile_C_971.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.44:514][125]PIE: Warning: FirstPersonProjectile_C_972.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.45:514][187]PIE: Warning: FirstPersonProjectile_C_973.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.46:515][249]PIE: Warning: FirstPersonProjectile_C_974.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.47:515][311]PIE: Warning: FirstPersonProjectile_C_975.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.48:514][373]PIE: Warning: FirstPersonProjectile_C_976.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.49:515][435]PIE: Warning: FirstPersonProjectile_C_977.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.50:515][497]PIE: Warning: FirstPersonProjectile_C_978.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.51:516][559]PIE: Warning: FirstPersonProjectile_C_979.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.52:516][621]PIE: Warning: FirstPersonProjectile_C_980.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.54:017][714]PIE: Warning: FirstPersonProjectile_C_981.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.55:015][776]PIE: Warning: FirstPersonProjectile_C_982.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.56:016][838]PIE: Warning: FirstPersonProjectile_C_983.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.57:017][900]PIE: Warning: FirstPersonProjectile_C_984.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.58:016][962]PIE: Warning: FirstPersonProjectile_C_985.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.54.59:016][ 24]PIE: Warning: FirstPersonProjectile_C_986.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.00:016][ 86]PIE: Warning: FirstPersonProjectile_C_987.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.01:018][148]PIE: Warning: FirstPersonProjectile_C_988.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.02:017][210]PIE: Warning: FirstPersonProjectile_C_989.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.03:516][303]PIE: Warning: FirstPersonProjectile_C_990.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.04:516][365]PIE: Warning: FirstPersonProjectile_C_991.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.05:516][427]PIE: Warning: FirstPersonProjectile_C_992.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.06:516][489]PIE: Warning: FirstPersonProjectile_C_993.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.07:516][551]PIE: Warning: FirstPersonProjectile_C_994.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.08:516][613]PIE: Warning: FirstPersonProjectile_C_995.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.09:517][675]PIE: Warning: FirstPersonProjectile_C_996.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.10:516][737]PIE: Warning: FirstPersonProjectile_C_997.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.12:016][830]PIE: Warning: FirstPersonProjectile_C_998.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.13:016][892]PIE: Warning: FirstPersonProjectile_C_999.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.14:016][954]PIE: Warning: FirstPersonProjectile_C_1000.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.15:021][ 16]PIE: Warning: FirstPersonProjectile_C_1001.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.16:022][ 78]PIE: Warning: FirstPersonProjectile_C_1002.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.17:022][140]PIE: Warning: FirstPersonProjectile_C_1003.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.18:022][202]PIE: Warning: FirstPersonProjectile_C_1004.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.19:022][264]PIE: Warning: FirstPersonProjectile_C_1005.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.20:022][326]PIE: Warning: FirstPersonProjectile_C_1006.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.21:022][388]PIE: Warning: FirstPersonProjectile_C_1008.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.22:522][481]PIE: Warning: FirstPersonProjectile_C_1012.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.23:522][543]PIE: Warning: FirstPersonProjectile_C_1015.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.24:522][605]PIE: Warning: FirstPersonProjectile_C_1019.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.25:523][667]PIE: Warning: FirstPersonProjectile_C_1023.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.26:523][729]PIE: Warning: FirstPersonProjectile_C_1026.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.27:522][791]PIE: Warning: FirstPersonProjectile_C_1029.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.28:522][853]PIE: Warning: FirstPersonProjectile_C_1031.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.29:523][915]PIE: Warning: FirstPersonProjectile_C_1032.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.30:523][977]PIE: Warning: FirstPersonProjectile_C_1039.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.31:523][ 39]PIE: Warning: FirstPersonProjectile_C_1041.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.32:525][101]PIE: Warning: FirstPersonProjectile_C_1044.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.33:524][163]PIE: Warning: FirstPersonProjectile_C_1045.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.35:024][256]PIE: Warning: FirstPersonProjectile_C_1048.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.36:023][318]PIE: Warning: FirstPersonProjectile_C_1051.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.37:024][380]PIE: Warning: FirstPersonProjectile_C_1055.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.38:024][442]PIE: Warning: FirstPersonProjectile_C_1058.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.40:024][566]PIE: Warning: FirstPersonProjectile_C_1059.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.40:679][601]LogRenderer: Reallocating scene render targets to support 1284x720 Format 10 NumSamples 1 (Frame:53595).
+[2018.11.21-15.55.41:029][621]PIE: Warning: FirstPersonProjectile_C_1061.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.43:029][745]PIE: Warning: FirstPersonProjectile_C_1065.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.44:028][807]PIE: Warning: FirstPersonProjectile_C_1066.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.45:029][869]PIE: Warning: FirstPersonProjectile_C_1067.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.45:158][877]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5300.137 Y=-8135.422 Z=283.099] for [FirstPersonProjectile_C]
+[2018.11.21-15.55.46:029][931]PIE: Warning: FirstPersonProjectile_C_1069.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.47:030][993]PIE: Warning: FirstPersonProjectile_C_1070.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.48:029][ 55]PIE: Warning: FirstPersonProjectile_C_1074.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.48:819][104]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5304.631 Y=-8138.352 Z=284.495] for [FirstPersonProjectile_C]
+[2018.11.21-15.55.49:029][117]PIE: Warning: FirstPersonProjectile_C_1079.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.50:030][179]PIE: Warning: FirstPersonProjectile_C_1083.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.51:030][241]PIE: Warning: FirstPersonProjectile_C_1087.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.52:029][303]PIE: Warning: FirstPersonProjectile_C_1088.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.53:029][365]PIE: Warning: FirstPersonProjectile_C_1091.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.54:030][427]PIE: Warning: FirstPersonProjectile_C_1093.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.55:030][489]PIE: Warning: FirstPersonProjectile_C_1096.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.56:030][551]PIE: Warning: FirstPersonProjectile_C_1098.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.57:030][613]PIE: Warning: FirstPersonProjectile_C_1103.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.58:030][675]PIE: Warning: FirstPersonProjectile_C_1104.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.55.59:530][768]PIE: Warning: FirstPersonProjectile_C_1105.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.00:530][830]PIE: Warning: FirstPersonProjectile_C_1106.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.04:030][ 47]PIE: Warning: EnnemyProjectile_C_0.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.06:030][171]PIE: Warning: EnnemyProjectile_C_1.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.06:031][171]PIE: Warning: FirstPersonProjectile_C_1107.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.09:032][357]PIE: Warning: FirstPersonProjectile_C_1108.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.09:032][357]PIE: Warning: EnnemyProjectile_C_2.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.11:032][481]PIE: Warning: FirstPersonProjectile_C_1111.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.12:032][543]PIE: Warning: FirstPersonProjectile_C_1116.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.13:032][605]PIE: Warning: FirstPersonProjectile_C_1123.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.15:031][729]PIE: Warning: FirstPersonProjectile_C_1124.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.16:038][791]PIE: Warning: FirstPersonProjectile_C_1126.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.19:039][977]PIE: Warning: EnnemyProjectile_C_3.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.19:538][  8]PIE: Warning: FirstPersonProjectile_C_1127.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.20:539][ 70]PIE: Warning: EnnemyProjectile_C_4.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.20:539][ 70]PIE: Warning: FirstPersonProjectile_C_1128.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.21:539][132]PIE: Warning: EnnemyProjectile_C_5.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.21:540][132]PIE: Warning: FirstPersonProjectile_C_1129.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.22:539][194]PIE: Warning: FirstPersonProjectile_C_1130.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.23:039][225]PIE: Warning: EnnemyProjectile_C_6.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.23:539][256]PIE: Warning: FirstPersonProjectile_C_1134.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.21-15.56.23:732][268]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Game Over
+[2018.11.21-15.56.48:728][816]LogSlate: Window 'Donjon (64-bit Development PCD3D_SM5) ' being destroyed
+[2018.11.21-15.56.48:735][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-15.56.48:735][816]LogEngine: All Windows Closed
+[2018.11.21-15.56.48:735][816]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.11.21-15.56.48:799][817]LogExit: Preparing to exit.
+[2018.11.21-15.56.48:799][817]LogMoviePlayer: Shutting down movie player
+[2018.11.21-15.56.49:423][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.21-15.56.49:439][817]LogExit: Game engine shut down
+[2018.11.21-15.56.49:773][817]LogExit: Object subsystem successfully closed.
+[2018.11.21-15.56.49:790][817]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.21-15.56.49:793][817]LogD3D11RHI: Shutdown
+[2018.11.21-15.56.49:793][817]LogD3D11RHI: CleanupD3DDevice
+[2018.11.21-15.56.49:794][817]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (376)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module SequenceRecorder (374)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module AutomationController (372)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module AutomationWorker (370)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module Voice (368)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module AIModule (366)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module GameplayDebugger (365)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module AITestSuite (363)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module NavigationSystem (361)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (358)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (356)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (354)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (352)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (350)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (348)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module CharacterAI (346)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module SessionServices (344)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (342)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (340)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module MovieScene (338)
+[2018.11.21-15.56.49:800][817]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (336)
+[2018.11.21-15.56.49:801][817]LogModuleManager: Shutting down and abandoning module PortalServices (334)
+[2018.11.21-15.56.49:801][817]LogModuleManager: Shutting down and abandoning module PortalRpc (332)
+[2018.11.21-15.56.49:801][817]LogModuleManager: Shutting down and abandoning module MessagingRpc (330)
+[2018.11.21-15.56.49:801][817]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module OculusInput (320)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (318)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module EditableMesh (316)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module AudioCapture (310)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (308)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module AndroidPermission (306)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (304)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (302)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module MediaCompositing (300)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module LinearTimecode (298)
+[2018.11.21-15.56.50:012][817]LogModuleManager: Shutting down and abandoning module ImgMedia (296)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module HTML5Networking (294)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (292)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (291)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module GeometryCache (288)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (287)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module BackChannel (284)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module AppleVision (282)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module AppleImageUtils (280)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module DatasmithContent (278)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (276)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module CryptoKeys (274)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (272)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (270)
+[2018.11.21-15.56.50:015][817]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (266)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module UObjectPlugin (264)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (262)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (260)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module SourceControl (259)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (256)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (254)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (252)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module PhysXVehicles (250)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (248)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (246)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (244)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2018.11.21-15.56.50:016][817]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2018.11.21-15.56.50:117][817]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (236)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module DataValidation (230)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module TreeMap (227)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module AISupportModule (222)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (218)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.11.21-15.56.50:218][817]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.11.21-15.56.50:219][817]LogModuleManager: Shutting down and abandoning module Media (213)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module MediaAssets (204)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2018.11.21-15.56.50:225][817]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2018.11.21-15.56.50:226][817]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2018.11.21-15.56.50:226][817]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2018.11.21-15.56.50:226][817]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module Core (156)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module MeshUtilities (150)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (149)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (148)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (147)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (145)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (143)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (141)
+[2018.11.21-15.56.50:227][817]LogModuleManager: Shutting down and abandoning module MaterialBaking (137)
+[2018.11.21-15.56.50:228][817]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2018.11.21-15.56.50:241][817]LogDerivedDataCache: Shutdown
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module XGEController (130)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module TargetPlatform (128)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (127)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (125)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (123)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (121)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (119)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (117)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (115)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (113)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (111)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (109)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module ImageWrapper (108)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (105)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (103)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (101)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (99)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2018.11.21-15.56.50:241][817]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.21-15.56.50:242][817]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.21-15.56.50:272][817]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.21-15.56.50:279][817]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.21-15.56.50:279][817]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.21-15.56.50:280][817]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.21-15.56.50:285][817]LogExit: Exiting.
+[2018.11.21-15.56.50:290][817]Log file closed, 11/21/18 16:56:50
