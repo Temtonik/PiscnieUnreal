@@ -1,0 +1,612 @@
+﻿Log file open, 11/22/18 14:55:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Donjon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.310424
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.050s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 970M
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  /Game/FirstPersonBP/Maps/Menu -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.22-13.55.54:336][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.22-13.55.54:336][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.22-13.55.54:341][  0]LogHAL: Display: Platform has ~ 8 GB [8522620928 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.22-13.55.54:341][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.22-13.55.54:341][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.22-13.55.54:341][  0]LogInit: Computer: DESKTOP-22TEGNE
+[2018.11.22-13.55.54:341][  0]LogInit: User: Tom
+[2018.11.22-13.55.54:341][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.22-13.55.54:341][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.11.22-13.55.54:342][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.22-13.55.54:342][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.22-13.55.54:342][  0]LogMemory: Process Physical Memory: 101.79 MB used, 101.79 MB peak
+[2018.11.22-13.55.54:342][  0]LogMemory: Process Virtual Memory: 98.25 MB used, 98.25 MB peak
+[2018.11.22-13.55.54:342][  0]LogMemory: Physical Memory: 4541.95 MB used,  3585.85 MB free, 8127.80 MB total
+[2018.11.22-13.55.54:342][  0]LogMemory: Virtual Memory: 4637.66 MB used,  3585.85 MB free, 134217728.00 MB total
+[2018.11.22-13.55.54:368][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.22-13.55.54:368][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.22-13.55.54:369][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.22-13.55.54:373][  0]LogStreaming: Display: Took  0.005s to InitEngineTextLocalization.
+[2018.11.22-13.55.54:398][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.22-13.55.54:398][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.22-13.55.54:403][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.11.22-13.55.54:403][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.22-13.55.54:480][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.11.22-13.55.54:480][  0]LogD3D11RHI:       3029/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.22-13.55.54:483][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.22-13.55.54:483][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.22-13.55.54:483][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.22-13.55.54:491][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.22-13.55.54:491][  0]LogD3D11RHI:     GPU DeviceId: 0x1618 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.22-13.55.54:491][  0]LogWindows: EnumDisplayDevices:
+[2018.11.22-13.55.54:491][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970M' (P:1 D:1)
+[2018.11.22-13.55.54:492][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2018.11.22-13.55.54:492][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2018.11.22-13.55.54:492][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2018.11.22-13.55.54:493][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.22-13.55.54:493][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.11.22-13.55.54:493][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.11.22-13.55.54:493][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.11.22-13.55.54:493][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2018.11.22-13.55.54:542][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.22-13.55.54:561][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.22-13.55.54:605][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../Cours/2ème Année/Unreal Engine/Projets/PiscnieUnreal/Donjon/Intermediate/Shaders/WorkingDirectory/15504/).
+[2018.11.22-13.55.54:605][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tom/AppData/Local/Temp/UnrealShaderWorkingDir/2A533770468E90CAE7E5EEAD4BC3574B/'.
+[2018.11.22-13.55.54:947][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.22-13.55.54:962][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.22-13.55.54:976][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.22-13.55.54:991][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.22-13.55.54:991][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.22-13.55.55:050][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.22-13.55.55:050][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.22-13.55.55:050][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.22-13.55.55:783][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.22-13.55.55:856][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Tom/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.22-13.55.55:856][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tom/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.22-13.55.55:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Cours/2ème Année/Unreal Engine/Projets/PiscnieUnreal/Donjon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.22-13.55.55:856][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.22-13.55.55:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Cours/2ème Année/Unreal Engine/Projets/PiscnieUnreal/Donjon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.22-13.55.55:856][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.22-13.55.55:871][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.22-13.55.55:884][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.22-13.55.55:884][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.22-13.55.55:884][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.22-13.55.55:904][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.22-13.55.55:905][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.22-13.55.55:905][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.22-13.55.55:961][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.22-13.55.55:961][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.22-13.55.55:961][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.11.22-13.55.55:961][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.11.22-13.55.56:694][  0]LogStreaming: Display: Took  0.732s to InitGameTextLocalization.
+[2018.11.22-13.55.56:701][  0]LogAssetRegistry: FAssetRegistry took 0.0045 seconds to start up
+[2018.11.22-13.55.56:896][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.013963 seconds
+[2018.11.22-13.55.57:005][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.22-13.55.57:142][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.22-13.55.57:145][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.22-13.55.57:145][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.22-13.55.57:145][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.22-13.55.57:145][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.22-13.55.57:161][  0]LogNetVersion: Donjon 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 914305754)
+[2018.11.22-13.55.57:748][  0]LogMoviePlayer: Initializing movie player
+[2018.11.22-13.55.57:934][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.22-13.55.57:947][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.22-13.55.58:033][  0]SourceControl: Source control is disabled
+[2018.11.22-13.55.58:033][  0]SourceControl: Source control is disabled
+[2018.11.22-13.55.58:034][  0]SourceControl: Source control is disabled
+[2018.11.22-13.55.58:163][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.22-13.55.58:215][  0]LogOcInput: OculusInput pre-init called
+[2018.11.22-13.55.58:224][  0]LogUObjectArray: 42169 objects as part of root set at end of initial load.
+[2018.11.22-13.55.58:224][  0]LogUObjectAllocator: 7432568 out of 0 bytes used by permanent object pool.
+[2018.11.22-13.55.58:224][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.22-13.55.58:282][  0]LogEngine: Initializing Engine...
+[2018.11.22-13.55.58:284][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.11.22-13.55.58:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.22-13.55.58:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.22-13.55.58:297][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.22-13.55.58:297][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.22-13.55.58:503][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.22-13.55.58:515][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.22-13.55.58:592][  0]LogInit: FAudioDevice initialized.
+[2018.11.22-13.55.58:604][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.22-13.55.58:614][  0]LogInit: Texture streaming: Enabled
+[2018.11.22-13.55.58:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.22-13.55.58:867][  0]LogInit: Display: Game Engine Initialized.
+[2018.11.22-13.55.58:867][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.22-13.55.58:867][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.22-13.55.58:867][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.22-13.55.58:868][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.22-13.55.58:868][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.22-13.55.58:882][  0]LogInit: Display: Starting Game.
+[2018.11.22-13.55.58:882][  0]LogNet: Browse: /Game/FirstPersonBP/Maps/Menu?Name=Player
+[2018.11.22-13.55.58:883][  0]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Menu?Name=Player
+[2018.11.22-13.55.58:923][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.55.58:923][  0]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.55.58:923][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.55.58:923][  0]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.55.58:933][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.55.58:933][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.55.58:933][  0]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.55.58:934][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.55.58:934][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.55.58:934][  0]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.55.58:951][  0]LogAIModule: Creating AISystem for world Menu
+[2018.11.22-13.55.58:951][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.22-13.55.58:953][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Menu.Menu up for play (max tick rate 0) at 2018.11.22-14.55.58
+[2018.11.22-13.55.58:953][  0]LogWorld: Bringing up level for play took: 0.000478
+[2018.11.22-13.55.58:953][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.22-13.55.58:957][  0]LogLoad: Took 0.074187 seconds to LoadMap(/Game/FirstPersonBP/Maps/Menu)
+[2018.11.22-13.55.59:024][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.11.22-13.55.59:024][  0]LogLoad: (Engine Initialization) Total time: 7.08 seconds
+[2018.11.22-13.55.59:024][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.22-13.55.59:040][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.22-13.55.59:045][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.22-13.56.01:881][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.22-13.56.02:135][178]LogPackageName: SearchForPackageOnDisk took   0.142s to resolve Collectibles_Grappin_Ennemis.umap.
+[2018.11.22-13.56.02:272][178]LogPackageName: SearchForPackageOnDisk took   0.136s to resolve Collectibles_Grappin_Ennemis.umap.
+[2018.11.22-13.56.02:272][178]LogNet: Browse: /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.02:272][178]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.02:481][178]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.02:481][178]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.02:481][178]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.02:481][178]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.02:803][178]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.02:803][178]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData.Collectibles_Grappin_Ennemis_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.02:803][178]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.02:803][178]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.02:803][178]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData.Collectibles_Grappin_Ennemis_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.02:803][178]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.03:230][178]LogAIModule: Creating AISystem for world Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.03:241][178]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.22-13.56.03:271][178]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis up for play (max tick rate 0) at 2018.11.22-14.56.03
+[2018.11.22-13.56.03:274][178]LogWorld: Bringing up level for play took: 0.031274
+[2018.11.22-13.56.03:281][178]LogLoad: Took 1.008819 seconds to LoadMap(/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis)
+[2018.11.22-13.56.09:986][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.22-13.56.12:744][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.22-13.56.12:947][761]LogPackageName: SearchForPackageOnDisk took   0.138s to resolve Menu.umap.
+[2018.11.22-13.56.13:083][761]LogPackageName: SearchForPackageOnDisk took   0.136s to resolve Menu.umap.
+[2018.11.22-13.56.13:083][761]LogNet: Browse: /Game/FirstPersonBP/Maps/Menu
+[2018.11.22-13.56.13:083][761]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Menu
+[2018.11.22-13.56.13:182][761]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.56.13:182][761]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.56.13:182][761]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.56.13:182][761]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.56.13:192][761]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.56.13:192][761]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.13:192][761]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.56.13:192][761]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.56.13:192][761]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.13:192][761]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.56.13:197][761]LogAIModule: Creating AISystem for world Menu
+[2018.11.22-13.56.13:198][761]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.22-13.56.13:200][761]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Menu.Menu up for play (max tick rate 0) at 2018.11.22-14.56.13
+[2018.11.22-13.56.13:200][761]LogWorld: Bringing up level for play took: 0.000615
+[2018.11.22-13.56.13:200][761]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.22-13.56.13:201][761]LogLoad: Took 0.117236 seconds to LoadMap(/Game/FirstPersonBP/Maps/Menu)
+[2018.11.22-13.56.15:262][881]LogPackageName: SearchForPackageOnDisk took   0.140s to resolve Collectibles_Grappin_Ennemis.umap.
+[2018.11.22-13.56.15:399][881]LogPackageName: SearchForPackageOnDisk took   0.137s to resolve Collectibles_Grappin_Ennemis.umap.
+[2018.11.22-13.56.15:399][881]LogNet: Browse: /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.15:399][881]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.15:602][881]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.15:602][881]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.15:602][881]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.15:602][881]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.15:889][881]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.15:889][881]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData.Collectibles_Grappin_Ennemis_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.15:889][881]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.15:889][881]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.15:889][881]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData.Collectibles_Grappin_Ennemis_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.15:889][881]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.16:310][881]LogAIModule: Creating AISystem for world Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.16:323][881]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.22-13.56.16:344][881]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis up for play (max tick rate 0) at 2018.11.22-14.56.16
+[2018.11.22-13.56.16:346][881]LogWorld: Bringing up level for play took: 0.021304
+[2018.11.22-13.56.16:348][881]LogLoad: Took 0.948081 seconds to LoadMap(/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis)
+[2018.11.22-13.56.33:790][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.22-13.56.33:995][964]LogPackageName: SearchForPackageOnDisk took   0.140s to resolve Menu.umap.
+[2018.11.22-13.56.34:134][964]LogPackageName: SearchForPackageOnDisk took   0.139s to resolve Menu.umap.
+[2018.11.22-13.56.34:134][964]LogNet: Browse: /Game/FirstPersonBP/Maps/Menu
+[2018.11.22-13.56.34:135][964]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Menu
+[2018.11.22-13.56.34:187][964]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.56.34:187][964]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.56.34:187][964]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.56.34:187][964]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.56.34:197][964]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.56.34:197][964]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.34:197][964]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.56.34:197][964]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.56.34:197][964]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.34:197][964]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.56.34:202][964]LogAIModule: Creating AISystem for world Menu
+[2018.11.22-13.56.34:203][964]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.22-13.56.34:205][964]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Menu.Menu up for play (max tick rate 0) at 2018.11.22-14.56.34
+[2018.11.22-13.56.34:205][964]LogWorld: Bringing up level for play took: 0.000688
+[2018.11.22-13.56.34:205][964]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.22-13.56.34:207][964]LogLoad: Took 0.072709 seconds to LoadMap(/Game/FirstPersonBP/Maps/Menu)
+[2018.11.22-13.56.35:128][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.22-13.56.35:349][ 27]LogPackageName: SearchForPackageOnDisk took   0.140s to resolve Collectibles_Grappin_Ennemis.umap.
+[2018.11.22-13.56.35:486][ 27]LogPackageName: SearchForPackageOnDisk took   0.137s to resolve Collectibles_Grappin_Ennemis.umap.
+[2018.11.22-13.56.35:487][ 27]LogNet: Browse: /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.35:487][ 27]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.35:686][ 27]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.35:686][ 27]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.35:686][ 27]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.35:686][ 27]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.35:913][ 27]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.35:913][ 27]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData.Collectibles_Grappin_Ennemis_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.35:913][ 27]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData'
+[2018.11.22-13.56.35:913][ 27]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.35:913][ 27]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData.Collectibles_Grappin_Ennemis_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.56.35:913][ 27]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis_BuiltData' while loading NULL.
+[2018.11.22-13.56.36:381][ 27]LogAIModule: Creating AISystem for world Collectibles_Grappin_Ennemis
+[2018.11.22-13.56.36:394][ 27]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.22-13.56.36:415][ 27]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis.Collectibles_Grappin_Ennemis up for play (max tick rate 0) at 2018.11.22-14.56.36
+[2018.11.22-13.56.36:416][ 27]LogWorld: Bringing up level for play took: 0.020649
+[2018.11.22-13.56.36:419][ 27]LogLoad: Took 0.932156 seconds to LoadMap(/Game/FirstPersonBP/Maps/Collectibles_Grappin_Ennemis)
+[2018.11.22-13.56.57:975][363]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5552.505 Y=-7440.224 Z=-257.928] for [FirstPersonProjectile_C]
+[2018.11.22-13.57.01:435][577]PIE: Warning: FirstPersonProjectile_C_15.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.22-13.57.03:935][732]PIE: Warning: EnnemyProjectile_C_0.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2018.11.22-13.57.05:531][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.22-13.57.05:733][835]LogPackageName: SearchForPackageOnDisk took   0.138s to resolve Menu.umap.
+[2018.11.22-13.57.05:870][835]LogPackageName: SearchForPackageOnDisk took   0.136s to resolve Menu.umap.
+[2018.11.22-13.57.05:870][835]LogNet: Browse: /Game/FirstPersonBP/Maps/Menu
+[2018.11.22-13.57.05:870][835]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Menu
+[2018.11.22-13.57.05:923][835]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.57.05:923][835]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.57.05:923][835]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.57.05:923][835]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.57.05:932][835]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.57.05:932][835]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.57.05:932][835]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file '/Game/FirstPersonBP/Maps/Menu_BuiltData'
+[2018.11.22-13.57.05:932][835]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.57.05:932][835]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.11.22-13.57.05:932][835]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Maps/Menu_BuiltData': Can't find file for asset '/Game/FirstPersonBP/Maps/Menu_BuiltData' while loading NULL.
+[2018.11.22-13.57.05:937][835]LogAIModule: Creating AISystem for world Menu
+[2018.11.22-13.57.05:938][835]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.22-13.57.05:940][835]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Menu.Menu up for play (max tick rate 0) at 2018.11.22-14.57.05
+[2018.11.22-13.57.05:940][835]LogWorld: Bringing up level for play took: 0.000541
+[2018.11.22-13.57.05:941][835]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.22-13.57.05:942][835]LogLoad: Took 0.072015 seconds to LoadMap(/Game/FirstPersonBP/Maps/Menu)
+[2018.11.22-13.57.06:632][876]Closing by request
+[2018.11.22-13.57.06:632][876]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.11.22-13.57.07:356][877]LogSlate: Window 'Donjon (64-bit Development PCD3D_SM5) ' being destroyed
+[2018.11.22-13.57.07:356][877]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.22-13.57.07:362][877]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.22-13.57.07:406][877]LogExit: Preparing to exit.
+[2018.11.22-13.57.07:406][877]LogMoviePlayer: Shutting down movie player
+[2018.11.22-13.57.08:061][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.22-13.57.08:071][877]LogExit: Game engine shut down
+[2018.11.22-13.57.08:865][877]LogExit: Object subsystem successfully closed.
+[2018.11.22-13.57.08:902][877]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.22-13.57.08:910][877]LogD3D11RHI: Shutdown
+[2018.11.22-13.57.08:910][877]LogD3D11RHI: CleanupD3DDevice
+[2018.11.22-13.57.08:911][877]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (376)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module SequenceRecorder (374)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module AutomationController (372)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module AutomationWorker (370)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module Voice (368)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module AIModule (366)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module GameplayDebugger (365)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module AITestSuite (363)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module NavigationSystem (361)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (358)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (356)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (354)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (352)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (350)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (348)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module CharacterAI (346)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module SessionServices (344)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (342)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (340)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module MovieScene (338)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (336)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module PortalServices (334)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module PortalRpc (332)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module MessagingRpc (330)
+[2018.11.22-13.57.09:028][877]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2018.11.22-13.57.09:136][877]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2018.11.22-13.57.09:136][877]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2018.11.22-13.57.09:136][877]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2018.11.22-13.57.09:136][877]LogModuleManager: Shutting down and abandoning module OculusInput (320)
+[2018.11.22-13.57.09:136][877]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (318)
+[2018.11.22-13.57.09:136][877]LogModuleManager: Shutting down and abandoning module EditableMesh (316)
+[2018.11.22-13.57.09:149][877]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2018.11.22-13.57.09:149][877]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2018.11.22-13.57.09:149][877]LogModuleManager: Shutting down and abandoning module AudioCapture (310)
+[2018.11.22-13.57.09:149][877]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (308)
+[2018.11.22-13.57.09:149][877]LogModuleManager: Shutting down and abandoning module AndroidPermission (306)
+[2018.11.22-13.57.09:149][877]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (304)
+[2018.11.22-13.57.09:149][877]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (302)
+[2018.11.22-13.57.09:165][877]LogModuleManager: Shutting down and abandoning module MediaCompositing (300)
+[2018.11.22-13.57.09:165][877]LogModuleManager: Shutting down and abandoning module LinearTimecode (298)
+[2018.11.22-13.57.09:165][877]LogModuleManager: Shutting down and abandoning module ImgMedia (296)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module HTML5Networking (294)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (292)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (291)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module GeometryCache (288)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (287)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module BackChannel (284)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module AppleVision (282)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module AppleImageUtils (280)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module DatasmithContent (278)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (276)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module CryptoKeys (274)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (272)
+[2018.11.22-13.57.09:184][877]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2018.11.22-13.57.09:185][877]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (270)
+[2018.11.22-13.57.09:185][877]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (266)
+[2018.11.22-13.57.09:185][877]LogModuleManager: Shutting down and abandoning module UObjectPlugin (264)
+[2018.11.22-13.57.09:185][877]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (262)
+[2018.11.22-13.57.09:185][877]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (260)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module SourceControl (259)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (256)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (254)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (252)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module PhysXVehicles (250)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (248)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (246)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (244)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2018.11.22-13.57.09:198][877]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2018.11.22-13.57.09:300][877]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2018.11.22-13.57.09:400][877]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (236)
+[2018.11.22-13.57.09:400][877]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2018.11.22-13.57.09:400][877]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2018.11.22-13.57.09:400][877]LogModuleManager: Shutting down and abandoning module DataValidation (230)
+[2018.11.22-13.57.09:400][877]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2018.11.22-13.57.09:411][877]LogModuleManager: Shutting down and abandoning module TreeMap (227)
+[2018.11.22-13.57.09:411][877]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2018.11.22-13.57.09:411][877]LogModuleManager: Shutting down and abandoning module AISupportModule (222)
+[2018.11.22-13.57.09:411][877]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2018.11.22-13.57.09:411][877]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (218)
+[2018.11.22-13.57.09:411][877]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.11.22-13.57.09:411][877]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.11.22-13.57.09:426][877]LogModuleManager: Shutting down and abandoning module Media (213)
+[2018.11.22-13.57.09:432][877]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2018.11.22-13.57.09:432][877]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2018.11.22-13.57.09:432][877]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2018.11.22-13.57.09:432][877]LogModuleManager: Shutting down and abandoning module MediaAssets (204)
+[2018.11.22-13.57.09:432][877]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2018.11.22-13.57.09:432][877]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2018.11.22-13.57.09:432][877]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2018.11.22-13.57.09:433][877]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2018.11.22-13.57.09:433][877]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2018.11.22-13.57.09:433][877]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2018.11.22-13.57.09:443][877]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2018.11.22-13.57.09:443][877]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2018.11.22-13.57.09:443][877]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2018.11.22-13.57.09:443][877]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2018.11.22-13.57.09:443][877]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2018.11.22-13.57.09:450][877]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2018.11.22-13.57.09:464][877]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2018.11.22-13.57.09:464][877]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2018.11.22-13.57.09:478][877]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2018.11.22-13.57.09:478][877]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module Core (156)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2018.11.22-13.57.09:479][877]LogModuleManager: Shutting down and abandoning module MeshUtilities (150)
+[2018.11.22-13.57.09:486][877]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (149)
+[2018.11.22-13.57.09:486][877]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (148)
+[2018.11.22-13.57.09:486][877]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (147)
+[2018.11.22-13.57.09:493][877]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (145)
+[2018.11.22-13.57.09:522][877]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (143)
+[2018.11.22-13.57.09:522][877]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (141)
+[2018.11.22-13.57.09:529][877]LogModuleManager: Shutting down and abandoning module MaterialBaking (137)
+[2018.11.22-13.57.09:529][877]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2018.11.22-13.57.09:971][877]LogDerivedDataCache: Shutdown
+[2018.11.22-13.57.09:971][877]LogModuleManager: Shutting down and abandoning module XGEController (130)
+[2018.11.22-13.57.09:971][877]LogModuleManager: Shutting down and abandoning module TargetPlatform (128)
+[2018.11.22-13.57.09:971][877]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (127)
+[2018.11.22-13.57.09:971][877]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (125)
+[2018.11.22-13.57.09:971][877]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (123)
+[2018.11.22-13.57.10:009][877]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (121)
+[2018.11.22-13.57.10:009][877]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (119)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (117)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (115)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (113)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (111)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (109)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module ImageWrapper (108)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (105)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (103)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (101)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (99)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2018.11.22-13.57.10:022][877]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.22-13.57.10:023][877]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.22-13.57.10:024][877]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.22-13.57.10:035][877]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.22-13.57.10:072][877]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.22-13.57.10:097][877]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.22-13.57.10:098][877]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.22-13.57.10:098][877]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.22-13.57.10:106][877]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.22-13.57.10:115][877]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.22-13.57.10:128][877]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.22-13.57.10:131][877]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.22-13.57.10:131][877]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.22-13.57.10:131][877]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.22-13.57.10:145][877]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.22-13.57.10:153][877]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.22-13.57.10:160][877]LogExit: Exiting.
+[2018.11.22-13.57.10:171][877]Log file closed, 11/22/18 14:57:10
